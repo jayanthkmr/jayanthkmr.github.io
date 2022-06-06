@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "JAYANTH KUMAR"
 title_separator          : "-"
 name                     : &name "Jayanth Kumar"
-description              : &description "👨🏽‍💼 Engineering Leader@Amazon <br/> 👨🏽‍🎓 B.Tech@IITB|GradCert@Stanford|MS@UCLA"
+description              : &description "👨🏽‍💼 Engineering Leader at Amazon <br/> B.Tech at IIT Bombay <br/> Graduate Certificate at Stanford <br/> MS at UCLA"
 url                      : https://jaykmr.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jayanthkmr/jayanthkmr.github.io"
@@ -85,7 +85,7 @@ analytics:
 author:
   name             : "Jayanth Kumar"
   avatar           : "profile.png"
-  bio              : "👨🏽‍💼 Engineering Leader@Amazon 👨🏽‍🎓 B.Tech@IITB|GradCert@Stanford|MS@UCLA"
+  bio              : "👨🏽‍💼 Engineering Leader at Amazon <br/> B.Tech at IIT Bombay <br/> Graduate Certificate at Stanford <br/> MS at UCLA"
   location         : "Bangalore"
   employer         : "Amazon"
   pubmed           : 
@@ -107,8 +107,8 @@ author:
   lastfm           : 
   linkedin         : "jaykmr"
   orcid            : "https://orcid.org/0000-0002-4342-9646"
-  pinterest        : "https://in.pinterest.com/jaynkmr"
-  soundcloud       : "https://soundcloud.com/jaykmr"
+  pinterest        : "jaynkmr"
+  soundcloud       : "jaykmr"
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
@@ -116,7 +116,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : "https://www.youtube.com/c/jayanthjaiswal"
+  youtube          : "/jayanthjaiswal"
   wikipedia        :
 
 
