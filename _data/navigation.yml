@@ -1,0 +1,38 @@
+# main links links
+main:
+
+  - title: "Education"
+    url: /education/
+
+  - title: "Experience"
+    url: /experience/
+
+  - title: "Entreprenuership"
+    url: /entreprenuership/
+
+  - title: "Authorship"
+    url: /authorship/
+
+  - title: "Blog Posts"
+    url: /blog/
+
+  - title: "Publications"
+    url: /publications/   
+
+  - title: "Teaching"
+    url: /teaching/    
+
+  - title: "Talks"
+    url: /talks/
+
+  - title: "CV"
+    url: /cv/
+
+  - title: "Why I believe!"
+    url: /beliefs/ 
+
+  # - title: "Portfolio"
+  #   url: /portfolio/
+    
+  # - title: "Guide"
+  #   url: /markdown/
