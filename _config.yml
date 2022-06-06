@@ -10,12 +10,13 @@ locale                   : "en-US"
 title                    : "JAYANTH KUMAR"
 title_separator          : "-"
 name                     : &name "Jayanth Kumar"
-description              : &description "👨🏽‍💼 Engineering Leader@Amazon 👨🏽‍🎓 B.Tech@IITB|GradCert@Stanford|MS@UCLA"
+description              : &description "👨🏽‍💼 Engineering Leader@Amazon <br/> 👨🏽‍🎓 B.Tech@IITB|GradCert@Stanford|MS@UCLA"
 url                      : https://jaykmr.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jayanthkmr/jayanthkmr.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
+seo_description          : "Site for Jayanth Kumar, Engineering Leader at Amazon"
 words_per_minute         : 160
 future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
@@ -48,6 +49,8 @@ staticman:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
   path                   : # blank (default) uses feed.xml
+read_more                : "enabled" # if enabled, adds a "read more" link to excerpts 
+future                   : true
 
 # SEO Related
 google_site_verification :
@@ -62,7 +65,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Open Graph/Twitter default site image
+og_image                 : "site-logo.png" # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -87,7 +90,7 @@ author:
   employer         : "Amazon"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=HStygeAAAAAJ"
-  email            : "jayanthjaiswal15<at>gmail.com"
+  email            : "jayanthjaiswal15@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              : "https://jaykmr.com"
   bitbucket        :
@@ -109,7 +112,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "jaynkmr"
+  twitter          : *twitter
   vine             :
   weibo            :
   xing             :
@@ -255,7 +258,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Kolkata # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
@@ -265,6 +268,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
+  - jemoji
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
