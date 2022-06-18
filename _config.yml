@@ -15,7 +15,7 @@ url                      : https://jaykmr.com # the base hostname & protocol for
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jayanthkmr/jayanthkmr.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
-breadcrumbs              : true # true, false (default)
+breadcrumbs              : false # true, false (default)
 seo_description          : "Site for Jayanth Kumar, Engineering Leader at Amazon"
 words_per_minute         : 160
 talkmap_link             : false #change to true to add link to talkmap on talks page
