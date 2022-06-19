@@ -5,10 +5,10 @@ excerpt: "Jayanth Kumar"
 author_profile: true
 marp: false
 ---
-<h1> Hey 👋 there, viewers 👀! 
-</br>
+<h1> Hey 👋 there, viewers 👀! </h1>
+</h2>
 I am Jayanth Kumar. 
-</h1>
+</h2>
 
 Currently building large scale software systems as SDM III at Amazon, being one of the youngest Engineering Leader in a FAANG . I am a published poet, a technical architect, an entrepreneur, an angel investor, an engineering leader and even, an assistant professor too, basically a Polymath.
 
@@ -19,7 +19,7 @@ See you around 🎩
 
 
 <div style="width:50%;">
-  <div style="float:left; border: 2px solid AliceBlue;text-align:center;width:49%;border-radius:10px; padding:5px; background: AliceBlue;">
+  <div style="float:left; border: 2px solid MistyRose;text-align:center;width:49%;border-radius:10px; padding:5px; background: MistyRose;">
   <a href="https://www.amazon.in/Gonzo-Poet-through-his-lens-ebook/dp/B07M6CWQJJ/" style="color:black">Poetry Anthology</a>
   </div> 
   <div style="float:right;border: 2px solid #292C34;text-align:center;width:49%;border-radius:10px; padding:5px; background: #292C34;">
@@ -39,7 +39,8 @@ See you around 🎩
 
 <details markdown=1><summary markdown="span"><b>Click here for archived news</b></summary>
 
-<sub>  April 2022: I have joined Amazon.</sub>
+* <sub>  April 2022: I have joined Amazon.</sub>
+
 
   <!-- <sub>  Feb 2020: I will be presenting a talk on "*Modelling excitation energy transfer and trapping in the filamentous cyanobacterium Anabaena variabilis PCC7120* at, "*Optimization of light energy conversion in plants and microalgae*", conference, Porto, Portugal.</sub> -->
 
