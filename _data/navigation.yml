@@ -4,9 +4,6 @@ main:
   - title: "About Me"
     url: /about/
 
-  # - title: "Education"
-  #   url: /education/
-
   - title: "Experience"
     url: /experience/
 
@@ -20,22 +17,14 @@ main:
     url: /blog/
 
   # - title: "Publications"
-  #   url: /publications/   
-
-  # - title: "Teaching"
-  #   url: /teaching/    
-
-  # - title: "Talks"
-  #   url: /talks/
+  #   url: /publications/       
 
   - title: "CV"
     url: /cv/
 
-  # - title: "Why I believe!"
-  #   url: /beliefs/ 
+  # - title: "Gallery"
+  #   url: /gallery/
 
-  # - title: "Portfolio"
-  #   url: /portfolio/
+    # - title: "Why I believe!"
+  #   url: /beliefs/ 
     
-  # - title: "Guide"
-  #   url: /markdown/

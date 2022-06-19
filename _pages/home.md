@@ -6,7 +6,7 @@ author_profile: true
 marp: false
 ---
 <h1> Hey 👋 there, viewers 👀! </h1>
-</h2>
+<h2>
 I am Jayanth Kumar. 
 </h2>
 
