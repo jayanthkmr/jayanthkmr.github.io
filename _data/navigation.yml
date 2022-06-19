@@ -1,35 +1,38 @@
 # main links links
 main:
 
+  - title: "About Me"
+    url: /about/
+
   # - title: "Education"
   #   url: /education/
 
   - title: "Experience"
     url: /experience/
 
-  - title: "Entreprenuership"
-    url: /entreprenuership/
+  # - title: "Entreprenuership"
+  #   url: /entreprenuership/
 
-  - title: "Authorship"
-    url: /authorship/
+  # - title: "Authorship"
+  #   url: /authorship/
 
   - title: "Blog Posts"
     url: /blog/
 
-  - title: "Publications"
-    url: /publications/   
+  # - title: "Publications"
+  #   url: /publications/   
 
-  - title: "Teaching"
-    url: /teaching/    
+  # - title: "Teaching"
+  #   url: /teaching/    
 
-  - title: "Talks"
-    url: /talks/
+  # - title: "Talks"
+  #   url: /talks/
 
   - title: "CV"
     url: /cv/
 
-  - title: "Why I believe!"
-    url: /beliefs/ 
+  # - title: "Why I believe!"
+  #   url: /beliefs/ 
 
   # - title: "Portfolio"
   #   url: /portfolio/
