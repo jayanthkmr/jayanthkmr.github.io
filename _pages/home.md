@@ -12,7 +12,7 @@ I am Jayanth Kumar.
 
 Currently building large scale software systems as SDM III at Amazon, being one of the youngest Engineering Leader in a FAANG . I am a published poet, a technical architect, an entrepreneur, an angel investor, an engineering leader and even, an assistant professor too, basically a Polymath.
 
-Subscribe to my website, read my poems or follow on my blogs for more engineering and entrepreneurial philosophical content..
+Subscribe to my website, read my poetry anthology - "*Gonzo Poet and through his lens*" or follow blog - "*Technopreneurial Treatises*" for more engineering and entrepreneurial philosophical content..
 
 See you around 🎩
 
