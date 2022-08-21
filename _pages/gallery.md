@@ -13,42 +13,42 @@ author_profile: true
  <figcaption>Collection-2.</figcaption>
 </figure> -->
 
-<!-- <video controls="controls" width="60%" name="Collection-0.">
+<!-- <video controls="controls" width="90%" name="Collection-0.">
   <source src="/images/Gallery/IMG_3806.MOV">
 </video> -->
 
 <figure>
-  <img src="/images/gallery/img_amazon.jpeg" alt="amazon" style="width:60%">
+  <img src="/images/gallery/img_amazon.jpeg" alt="amazon" style="width:90%">
   <figcaption>Amazon 2022 WAVE Team Offsite Organizer.</figcaption>
 </figure>
 
 <figure>
-  <img src="/images/gallery/img_sap.jpeg" alt="cdli" style="width:60%">
+  <img src="/images/gallery/img_sap.jpeg" alt="cdli" style="width:90%">
   <figcaption>SAP 2016 IoT Predictive Maintenance Hackathon Organizer.</figcaption>
 </figure>
 
 <figure>
-  <img src="/images/gallery/img_cdli.jpeg" alt="cdli" style="width:60%">
+  <img src="/images/gallery/img_cdli.jpeg" alt="cdli" style="width:90%">
   <figcaption>CDLI Research Group 2018 as UCLA's research team leader.</figcaption>
 </figure>
 
 <figure>
-  <img src="/images/gallery/img_ucla.jpeg" alt="ucla" style="width:60%">
+  <img src="/images/gallery/img_ucla.jpeg" alt="ucla" style="width:90%">
   <figcaption>Prof. Kai Wei Chang's NLP group 2018, my graduate thesis advisor.</figcaption>
 </figure>
 
 <figure>
-  <img src="/images/gallery/img_pb.jpeg" alt="cfilt" style="width:60%">
+  <img src="/images/gallery/img_pb.jpeg" alt="cfilt" style="width:90%">
   <figcaption>Prof. Pushpak Bhattacharyya's CFILT group 2014, my undergraduate thesis advisor</figcaption>
 </figure>
 
 <figure>
-  <img src="/images/gallery/img_iitb.jpeg" alt="iitb" style="width:60%">
+  <img src="/images/gallery/img_iitb.jpeg" alt="iitb" style="width:90%">
   <figcaption>Prof. Ganesh Ramakrishnan, my undergraduate thesis committee 2014.</figcaption>
 </figure>
 
 <figure>
-  <img src="/images/gallery/img_kv.jpeg" alt="erts" style="width:60%">
+  <img src="/images/gallery/img_kv.jpeg" alt="erts" style="width:90%">
   <figcaption>ERTS Lab IIT Bombay summer research group 2011 under Prof. Kavi Arya.</figcaption>
 </figure>
 
