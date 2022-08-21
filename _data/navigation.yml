@@ -25,6 +25,14 @@ main:
   - title: "Gallery"
     url: /gallery/
 
-    # - title: "Why I believe!"
+  # - title: "Why I believe!"
   #   url: /beliefs/ 
+
+  # - title: "Teaching"
+  #   url: /teaching/
+
+  # - title: "Talks"
+  #   url: /talks/
+
+
     
