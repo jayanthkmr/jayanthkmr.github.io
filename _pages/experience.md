@@ -9,37 +9,32 @@ author_profile: true
 
 Education
 --------
-* Intermediate in Science, [Delhi Public School R. K. Puram](https://dpsrkp.net/), 2008 - 2010
-* B.S. in Computer Science, [Indian Institute of Technology Bombay](https://www.iitb.ac.in/), 2010 - 2014
-* Graduate Certificate in Data Mining & Applications, [Stanford University](https://www.stanford.edu/), 2016 - 2017 
-* M.S. in Computer Science, [University of California Los Angeles](https://www.ucla.edu/), 2017 - 2019
+* **Intermediate in Science**, [Delhi Public School R. K. Puram](https://dpsrkp.net/), 2008 - 2010
+* **B.S. in Computer Science**, [Indian Institute of Technology Bombay](https://www.iitb.ac.in/), 2010 - 2014
+* **Graduate Certificate in Data Mining & Applications**, [Stanford University](https://www.stanford.edu/), 2016 - 2017 
+* **M.S. in Computer Science**, [University of California Los Angeles](https://www.ucla.edu/), 2017 - 2019
 
 Work Experience
 --------
-* Software Dev Manager III, Distribution Center Technology, [Amazon](https://amazon.com)
-  * April 2022 - Present
-  * Bangalore
+* *April 2022 - Present* : **Software Development Manager III**, Distribution Center Technology, [Amazon](https://amazon.com), Bangalore, India
 
-* Engineering Manager, Logistics SaaS Platform & Solutions, [Delhivery](https://www.delhivery.com/)
-  * April 2021 - April 2022
-  * Bangalore
+* *April 2021 - April 2022* : **Engineering Manager**, Logistics SaaS Platform & Solutions, [Delhivery](https://www.delhivery.com/), Bangalore, India
 
-* Head of Engineering & Founding Team Member, [Goodhealthapp](https://www.goodhealthapp.com/)
-  * September 2019 - March 2021
-  * Remote
+* *September 2019 - March 2021* : **Head of Engineering & Founding Team Member**, [Goodhealthapp](https://www.goodhealthapp.com/), Remote
 
-* Research Lab Lead, Cuneiform Digital Library Initiative, [University of California Los Angeles](https://www.ucla.edu/)
-  * September 2017 - December 2018
-  * Los Angeles
+* *September 2017 - December 2018* : **Research Lab Lead**, Cuneiform Digital Library Initiative, [University of California Los Angeles](https://www.ucla.edu/), Los Angeles, California, US
 
-* Software Developer Specialist, Predictive Asset Insights, [SAP Labs Silicon Valley](https://www.sap.com/)
-  * November 2015 - May 2017
-  * Palo Alto
+* *November 2015 - May 2017* : **Software Developer Specialist**, Predictive Asset Insights, [SAP Labs Silicon Valley](https://www.sap.com/), Palo Alto, California, US
 
-* Software Developer, Predictive Maintainance & Services, [SAP Labs SE](https://www.sap.com/)
-  * September 2014 - October 2015
-  * Walldorf, Germany
+* *September 2014 - October 2015* : **Software Developer**, Predictive Maintainance & Services, [SAP Labs SE](https://www.sap.com/)
+, Walldorf, Germany
 
+Internships
+--------
+
+* *Summer 2013* : Equities & Rates, [Deutsche Bank](https://country.db.com/india) , Mumbai
+* *Winter 2012* : Algorithmic Trading, [Edelweiss Capital](https://www.edelweiss.in/), Mumbai
+* *Summer 2012* : Robot Navigation, [TU Braunschweig](https://www.tu-braunschweig.de/en/), Germany
 
 Entreprenuership
 --------
