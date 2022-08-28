@@ -10,3 +10,4 @@ author_profile: true
 {% for post in site.manifesto %}
   {% include archive-single.html %}
 {% endfor %}
+
