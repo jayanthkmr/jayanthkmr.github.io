@@ -19,13 +19,20 @@ See you around 🎩
 
 
 <div style="width:50%;">
-  <div style="float:left; border: 2px solid MistyRose;text-align:center;width:49%;border-radius:10px; padding:5px; background: MistyRose;">
-  <a href="https://www.amazon.in/Gonzo-Poet-through-his-lens-ebook/dp/B07M6CWQJJ/" style="color:black">Poetry Anthology</a>
+  
+  <div style="float:left; border: 2px solid #4287f5;text-align:center;width:49%;border-radius:10px; padding:5px; background: #4287f5;">
+  <a href="https://jaykmr.com/system-manifesto/" style="color:black">System Manifesto</a>
   </div> 
-  <div style="float:right;border: 2px solid #292C34;text-align:center;width:49%;border-radius:10px; padding:5px; background: #292C34;">
+
+  <div style="float:center;border: 2px solid #292C34;text-align:center;width:49%;border-radius:10px; padding:5px; background: #292C34;">
   
   <a href="https://blog.jaykmr.com" style="color:white">Blog</a>
   </div>
+
+  <div style="float:left; border: 2px solid MistyRose;text-align:center;width:49%;border-radius:10px; padding:5px; background: MistyRose;">
+  <a href="https://www.amazon.in/Gonzo-Poet-through-his-lens-ebook/dp/B07M6CWQJJ/" style="color:black">Poetry Anthology</a>
+  </div> 
+
 </div>
 <br/>
 <hr width="50%" />
