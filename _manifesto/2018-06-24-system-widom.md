@@ -8,9 +8,6 @@ tags:
   - system architecture
 ---
 
-Wisdom for System Design
-========================
-
 Wisdom emerged over years of system design and implementations
 --------------------------------------------------------------
 

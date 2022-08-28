@@ -8,9 +8,6 @@ tags:
   - system architecture
 ---
 
-System Manifesto: Wisdom, Philosophy and Principles
-===================================================
-
 Guidelines for system design, implementation and optimization.
 --------------------------------------------------------------
 

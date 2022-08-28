@@ -8,9 +8,6 @@ tags:
   - system architecture
 ---
 
-Principles for System Optimization
-==================================
-
 Strategies to improve the performance or efficiency of the system
 -----------------------------------------------------------------
 

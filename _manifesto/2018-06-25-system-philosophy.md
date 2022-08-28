@@ -8,9 +8,6 @@ tags:
   - system architecture
 ---
 
-Philosophy of System Implementation
-===================================
-
 Developed from the experience of Unix philosophy, not as vague generalities but leads to specific prescriptions.
 ----------------------------------------------------------------------------------------------------------------
 
