@@ -10,9 +10,6 @@ main:
   # - title: "Entreprenuership"
   #   url: /entreprenuership/
 
-  # - title: "Authorship"
-  #   url: /authorship/
-
   - title: "Blog"
     url: /blog/
 
@@ -20,7 +17,10 @@ main:
     url: /publications/   
 
   - title: "Patents"
-    url: /patents/       
+    url: /patents/  
+
+  - title: "System Manifesto"
+    url: /system-manifesto/     
 
   - title: "CV"
     url: /cv/
