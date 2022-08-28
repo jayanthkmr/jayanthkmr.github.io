@@ -12,7 +12,7 @@ I am Jayanth Kumar.
 
 Currently building large scale software systems as SDM III at Amazon, being one of the youngest Engineering Leader in a FAANG . I am a published poet, a technical architect, an entrepreneur, an angel investor, an engineering leader and even, an assistant professor too, basically a Polymath.
 
-Subscribe to my website, read my poetry anthology - "*Gonzo Poet and through his lens*" or follow blog - "*Technopreneurial Treatises*" for more engineering and entrepreneurial philosophical content..
+Subscribe to my website to read *System Manifesto* or read my poetry anthology - "*Gonzo Poet and through his lens*" or follow my blog - "*Technopreneurial Treatises*" for more engineering and entrepreneurial philosophical content.
 
 See you around 🎩
 
@@ -20,11 +20,11 @@ See you around 🎩
 
 <div style="width:50%;">
   
-  <div style="float:left; border: 2px solid #4287f5;text-align:center;width:49%;border-radius:10px; padding:5px; background: #4287f5;">
+  <div style="float:left; border: 2px solid #cfe2ef;text-align:center;width:49%;border-radius:10px; padding:5px; background: #cfe2ef;">
   <a href="https://jaykmr.com/system-manifesto/" style="color:black">System Manifesto</a>
   </div> 
 
-  <div style="float:center;border: 2px solid #292C34;text-align:center;width:49%;border-radius:10px; padding:5px; background: #292C34;">
+  <div style="float:center; border: 2px solid #292C34;text-align:center;width:49%;border-radius:10px; padding:5px; background: #292C34;">
   
   <a href="https://blog.jaykmr.com" style="color:white">Blog</a>
   </div>
