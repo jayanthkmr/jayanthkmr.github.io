@@ -1,7 +1,7 @@
 ---
 title: "Monotone submodularity in opinion summaries"
 collection: publications
-permalink: /publication/2015-09-monotone-submodularity-opinion-summaries
+permalink: /publications/2015-09-monotone-submodularity-opinion-summaries
 excerpt: 'Opinion summarization is the task of producing the summary of a text, such that the summary also preserves the sentiment of the text. Opinion Summarization is thus a trade-off between summarization and sentiment analysis. The demand of compression may drop sentiment bearing sentences, and the demand of sentiment detection may bring in redundant sentences. We harness the power of submodularity to strike a balance between two conflicting requirements. We investigate an incipient class of submodular functions for the problem, and a partial enumeration based greedy algorithm that has performance guarantee of 63%. Our functions generate summaries such that there is good correlation between document sentiment and summary sentiment along with good ROUGE score, which outperforms thestate-of-the-art algorithms.'
 date: 2015-09-01
 venue: 'Proceedings of the 2015 Conference on Empirical Methods in Natural Language Processing'

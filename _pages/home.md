@@ -32,8 +32,9 @@ See you around 🎩
 
 ## Updates
 
+- 🔨 Added gallery of my research and work associations [Gallery - Jayanth Kumar](https://jaykmr.com/gallery/)✨ 📷
 - 🔨 Release of my [Personal Website - Jayanth Kumar](https://jaykmr.com)✨ 🚀
-- 🔨 Set up of the blog - [Technopreneurial Treatises](https://blog.jaykmr.com)✨ 🚀
+- 🔨 Set up of the blog - [Technopreneurial Treatises](https://blog.jaykmr.com)✨ 🖊️
 <!-- - Would you like to search for scientific keywords and obiatin it's related analytics from publications to authors? Here's link to one of my [*code for fun*](https://avratanubiswas.github.io/cats-and-codes/) project, a web-app, called [PubLit](https://share.streamlit.io/avratanubiswas/publit/main/publit.py) 🚀
  -->
 

@@ -17,7 +17,10 @@ main:
     url: /blog/
 
   - title: "Publications"
-    url: /publications/       
+    url: /publications/   
+
+  - title: "Patents"
+    url: /patents/       
 
   - title: "CV"
     url: /cv/
