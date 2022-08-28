@@ -20,13 +20,16 @@ gem "tzinfo", ">= 1.2.10"
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
 #ref - https://stackoverflow.com/questions/30682575/unable-to-load-the-eventmachine-c-extension-to-use-the-pure-ruby-reactor
-gem 'eventmachine', '1.2.7', git: 'https://github.com/eventmachine/eventmachine.git', tag: 'v1.2.7'
+#gem 'eventmachine', '1.2.7', git: 'https://github.com/eventmachine/eventmachine.git', tag: 'v1.2.7'
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
-  # gem "jekyll-archives"
+  gem "jekyll-archives"
   gem "jekyll-feed"
   gem 'jekyll-sitemap'
   gem 'hawkins'
+  gem 'jemoji'
 end
 
+
+gem "webrick", "~> 1.7"
