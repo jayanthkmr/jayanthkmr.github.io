@@ -37,11 +37,11 @@ layout: default
         {% if page.collection == 'teaching' %}
           <p> {{ page.type }}, <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif page.venue and page.date %}
-          {% if post.collection == 'publications' %}
-            <p>Published in <i>{{ post.venue }}</i> on {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
-          {% elsif post.collection == 'patents' %}
-            <p>Patented in <i>{{ post.venue }}</i> with patent number <i>{{ post.patentno }}</i> 
-              and application number <i>{{ post.applicationno }}</i> on {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+          {% if page.collection == 'publications' %}
+            <p>Published in <i>{{ page.venue }}</i> on {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
+          {% elsif page.collection == 'patents' %}
+            <p>Patented in <i>{{ page.venue }}</i> with patent number <i>{{ page.patentno }}</i> 
+              and application number <i>{{ page.applicationno }}</i> on {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
           {% else %}
             <p>Published in <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
           {% endif %}
