@@ -18,6 +18,7 @@ gem "jekyll"
 gem "tzinfo", ">= 1.2.10"
 
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
+gem "activesupport", ">= 4.1.11" #https://github.com/jayanthkmr/jayanthkmr.github.io/security/dependabot/3
 
 #ref - https://stackoverflow.com/questions/30682575/unable-to-load-the-eventmachine-c-extension-to-use-the-pure-ruby-reactor
 #gem 'eventmachine', '1.2.7', git: 'https://github.com/eventmachine/eventmachine.git', tag: 'v1.2.7'
