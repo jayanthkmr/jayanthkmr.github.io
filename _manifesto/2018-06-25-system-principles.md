@@ -1,6 +1,6 @@
 ---
 title: 'Principles for System Optimization'
-date: 2018-06-24
+date: 2018-06-25
 permalink: /system-manifesto/optimization/
 tags:
   - system optimization

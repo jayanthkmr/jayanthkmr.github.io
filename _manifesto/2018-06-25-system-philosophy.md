@@ -1,6 +1,6 @@
 ---
 title: 'Philosophy of System Implementation'
-date: 2018-06-24
+date: 2018-06-25
 permalink: /system-manifesto/philosophy/
 tags:
   - system philosophy
