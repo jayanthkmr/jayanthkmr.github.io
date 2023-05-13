@@ -14,6 +14,8 @@ Currently building large scale software systems as SDM III at Amazon, being one 
 
 Subscribe to my website to read *System Manifesto* or read my poetry anthology - "*Gonzo Poet and through his lens*" or follow my blog - "*Technopreneurial Treatises*" for more engineering and entrepreneurial philosophical content.
 
+ You can book a 1:1 call or ask any queries you may have on my [*topmate.io page*](https://topmate.io/jaykmr). Whether you need help with my areas of expertise or just want to chat about anything, I'm available.
+
 See you around 🎩
 
 
@@ -39,6 +41,7 @@ See you around 🎩
 
 ## Updates
 
+- 🔨 Set up of my mentorship profile - [*topmate.io page*](https://topmate.io/jaykmr)✨ 🤝🏼
 - 🔨 Added gallery of my research and work associations [Gallery - Jayanth Kumar](https://jaykmr.com/gallery/)✨ 📷
 - 🔨 Release of my [Personal Website - Jayanth Kumar](https://jaykmr.com)✨ 🚀
 - 🔨 Set up of the blog - [Technopreneurial Treatises](https://blog.jaykmr.com)✨ 🖊️
@@ -47,6 +50,7 @@ See you around 🎩
 
 <details markdown=1><summary markdown="span"><b>Click here for archived news</b></summary>
 
+* <sub> January 2023: I currently, work for Twitch TQ team in Amazon. </sub>
 * <sub>  April 2022: I have joined Amazon.</sub>
 
 
