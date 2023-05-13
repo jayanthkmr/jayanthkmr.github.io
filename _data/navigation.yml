@@ -13,7 +13,7 @@ main:
   - title: "Blog"
     url: /blog/
 
-   - title: "Mentorship"
+  - title: "Mentorship"
     url: /topmate/
 
   - title: "Publications"
