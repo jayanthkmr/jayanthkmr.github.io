@@ -119,7 +119,7 @@ fetch(RSS_URL)
       `;
     });
     mainSection = document.querySelector('#main.wrapper.style1');
-    mainSection.body.insertAdjacentHTML("beforeend", html);
+    mainSection.insertAdjacentHTML("beforeend", html);
   });
 </script>
 
