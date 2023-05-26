@@ -74,12 +74,12 @@ See you around 🎩
 <div class="row">
   <h3><a href="{{ e.url }}">{{ e.title }}</a></h3>
   <p>{{e.excerpt}}</p>
-   {% endfor %}
 
   <section class="special">
   <ul class="actions">
   <li><a href="{{ site.baseurl }}{{ e.url }}" class="button {% cycle '', 'alt'%}">Read More</a></li>
   </ul>
   </section>
+  {% endfor %}
 </div>
 </section>
