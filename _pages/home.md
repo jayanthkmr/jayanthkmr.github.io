@@ -63,6 +63,7 @@ See you around 🎩
 <a href="https://twitter.com/jaynkmr?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="true">Follow @jaynkmr</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ----------
+
 <section id="main" class="wrapper style1">
 
   <header class="major">
@@ -81,3 +82,40 @@ See you around 🎩
   </p>
   {% endfor %}
 </div>
+
+----------
+
+<section id="main" class="wrapper style1">
+
+  <header class="major">
+      <h2>Latest Blog Posts </h2>
+  </header>
+  
+<script type="text/javascript">
+const RSS_URL = "https://blog.jaykmr.com/feed/";
+
+
+fetch(RSS_URL)
+  .then(response => response.text())
+  .then(str => new window.DOMParser().parseFromString(str, "text/xml"))
+  .then(data => {
+    console.log(data);
+    const items = data.querySelectorAll("item");
+    let html = ``;
+    items.forEach(el => {
+      html += `
+
+        <div class="row">
+          <h3><a href="${el.querySelector("link").innerHTML}">${el.querySelector("title").innerHTML}</a></h3>
+          <p>{{e.excerpt}}
+
+          <section class="special">
+          <a href="${el.querySelector("link").innerHTML}" style="color:black">Read More...</a>
+          </section>
+          </p>
+        </div>
+      `;
+    });
+    document.body.insertAdjacentHTML("beforeend", html);
+  });
+</script>
