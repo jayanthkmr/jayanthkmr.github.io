@@ -82,6 +82,7 @@ See you around 🎩
   </p>
   {% endfor %}
 </div>
+</section>
 
 ----------
 
@@ -92,7 +93,7 @@ See you around 🎩
   </header>
   
 <script type="text/javascript">
-const RSS_URL = "https://blog.jaykmr.com/feed/";
+const RSS_URL = "https://cors-anywhere.herokuapp.com/https://medium.com/feed/technopreneurial-treatises";
 
 
 fetch(RSS_URL)
@@ -112,6 +113,7 @@ fetch(RSS_URL)
           <section class="special">
           <a href="${el.querySelector("link").innerHTML}" style="color:black">Read More...</a>
           </section>
+          Published on ${el.querySelector("pubDate").innerHTML}
           </p>
         </div>
       `;
@@ -119,3 +121,5 @@ fetch(RSS_URL)
     document.body.insertAdjacentHTML("beforeend", html);
   });
 </script>
+
+</section>
