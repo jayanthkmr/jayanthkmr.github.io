@@ -118,7 +118,7 @@ fetch(RSS_URL)
         </div>
       `;
     });
-    const mainSection = document.querySelector('#main.wrapper.style1');
+    mainSection = document.querySelector('#main.wrapper.style1');
     mainSection.body.insertAdjacentHTML("beforeend", html);
   });
 </script>
