@@ -76,9 +76,8 @@ See you around 🎩
   <p>{{e.excerpt}}
 
   <section class="special">
-  <a href="{{ e.link }}" class="button {% cycle '', 'alt'%}">Read More</a>
+  <a href="{{ e.link }}" style="color:black">Read More...</a>
   </section>
   </p>
   {% endfor %}
 </div>
-</section>
