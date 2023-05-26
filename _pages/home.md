@@ -70,7 +70,5 @@ See you around 🎩
 <div class="row">
   <h3>{{e.title}}</h3>
   <p>{{e.feed_content}}</p>
-
-  {% endfor %}
-
 </div>
+{% endfor %}
