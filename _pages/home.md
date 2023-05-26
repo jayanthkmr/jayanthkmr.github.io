@@ -64,7 +64,7 @@ See you around 🎩
 
 ----------
 
-<section id="main" class="wrapper style1">
+<!-- <section id="main" class="wrapper style1">
 
   <header class="major">
       <h2>Latest Blog Posts </h2>
@@ -82,9 +82,9 @@ See you around 🎩
   </p>
   {% endfor %}
 </div>
-</section>
+</section> -->
 
-----------
+<!-- ---------- -->
 
 <section id="main" class="wrapper style1">
 
@@ -107,7 +107,7 @@ fetch(RSS_URL)
       html += `
 
         <div class="row">
-          <h3><a href="${el.querySelector("link").innerHTML}">${el.querySelector("title").innerHTML}</a></h3>
+          <h3><a href="${el.querySelector("link").innerHTML}">${el.querySelector("title").textContent}</a></h3>
           <p>{{e.excerpt}}
 
           <section class="special">
@@ -118,7 +118,8 @@ fetch(RSS_URL)
         </div>
       `;
     });
-    document.body.insertAdjacentHTML("beforeend", html);
+    const mainSection = document.querySelector('#main.wrapper.style1');
+    mainSection.body.insertAdjacentHTML("beforeend", html);
   });
 </script>
 
