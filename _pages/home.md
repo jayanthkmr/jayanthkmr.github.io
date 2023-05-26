@@ -61,3 +61,16 @@ See you around 🎩
 ----------
 <a class="twitter-timeline" data-width="600" data-height="1000" data-dnt="true" data-theme="light" href="https://twitter.com/jaynkmr?ref_src=twsrc%5Etfw">Tweets by Jayanth Kumar</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8" ></script>
 <a href="https://twitter.com/jaynkmr?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="true">Follow @jaynkmr</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+----------
+<h2> Latest Blog Posts </h2>
+
+{% for e in site.medium_posts %}
+
+<div class="row">
+  <h3>{{e.title}}</h3>
+  <p>{{e.feed_content}}</p>
+
+  {% endfor %}
+
+</div>

@@ -27,6 +27,7 @@ gem "webrick" #https://stackoverflow.com/questions/65989040/bundle-exec-jekyll-s
 group :jekyll_plugins do
   gem "jekyll-archives"
   gem "jekyll-feed"
+  gem "jekyll-display-medium-posts"
   gem 'jekyll-sitemap'
   gem 'hawkins'
   gem 'jemoji'
