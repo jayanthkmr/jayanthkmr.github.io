@@ -2,6 +2,7 @@
 layout: post
 author: Jayanth Kumar
 title: The Right Approach to Effective Code Reviews
+link: https://blog.jaykmr.com/the-right-approach-to-effective-code-reviews-88a675469199?source=rss----5c34e71e048---4
 date: 2023-05-25 19:02:02 UTC
 background: //cdn-images-1.medium.com/max/960/1*PeMyG4kC8cMgYtLjwjFN_A.png
 ---

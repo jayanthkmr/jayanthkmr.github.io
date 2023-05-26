@@ -2,6 +2,7 @@
 layout: post
 author: Jayanth Kumar
 title: Standardizing RESTful APIs
+link: https://blog.jaykmr.com/standardizing-restful-apis-7f0b94d12d05?source=rss----5c34e71e048---4
 date: 2022-08-20 15:06:28 UTC
 background: //cdn-images-1.medium.com/max/960/1*R7pUZKRytt4q9_PC4xmzwQ.png
 ---

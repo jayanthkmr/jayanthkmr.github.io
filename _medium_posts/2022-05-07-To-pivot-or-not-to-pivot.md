@@ -2,6 +2,7 @@
 layout: post
 author: Jayanth Kumar
 title: To pivot, or not to pivot
+link: https://blog.jaykmr.com/to-pivot-or-not-to-pivot-c07b20faf0b?source=rss----5c34e71e048---4
 date: 2022-05-07 06:20:43 UTC
 background: //cdn-images-1.medium.com/max/960/1*SxQNSlrVHex4PJzs5MjKyg.png
 ---

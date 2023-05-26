@@ -2,6 +2,7 @@
 layout: post
 author: Jayanth Kumar
 title: Picking the Event Store for Event Sourcing
+link: https://blog.jaykmr.com/picking-the-event-store-for-event-sourcing-988246a896bf?source=rss----5c34e71e048---4
 date: 2023-05-21 15:59:50 UTC
 background: //cdn-images-1.medium.com/max/960/1*ViRXr_dJpXcHxsit05d7Sw.png
 ---

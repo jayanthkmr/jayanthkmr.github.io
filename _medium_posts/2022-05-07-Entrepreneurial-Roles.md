@@ -2,6 +2,7 @@
 layout: post
 author: Jayanth Kumar
 title: Entrepreneurial Roles
+link: https://blog.jaykmr.com/entrepreneurial-roles-6479b855d1ef?source=rss----5c34e71e048---4
 date: 2022-05-07 06:18:51 UTC
 background: //cdn-images-1.medium.com/max/1024/1*LVK567hWSSM5gTCCNR4lsA.jpeg
 ---

@@ -2,6 +2,7 @@
 layout: post
 author: Jayanth Kumar
 title: Serverless Microservices
+link: https://blog.jaykmr.com/serverless-microservices-ea465c439183?source=rss----5c34e71e048---4
 date: 2022-05-07 06:18:05 UTC
 background: //cdn-images-1.medium.com/max/740/0*58hUDDT5fp4oTrWU
 ---

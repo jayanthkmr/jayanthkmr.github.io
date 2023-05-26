@@ -2,6 +2,7 @@
 layout: post
 author: Jayanth Kumar
 title: The Technical Engineering Interview Guide
+link: https://blog.jaykmr.com/the-technical-engineering-interview-guide-d96694568728?source=rss----5c34e71e048---4
 date: 2022-05-07 06:19:49 UTC
 background: //cdn-images-1.medium.com/max/960/1*Emjf9KMWrxo5tc59jS3hAQ.png
 ---
@@ -90,9 +91,9 @@ Here is a sample problem for this&nbsp;round:
 
     Given a set S, write a program in your preferred language of choice to generate all subsets of it, i.e., find the power set of set S. A power set of any set S is the set of all subsets of S, including the empty set and S itself
 
-    For example, if S is the set \{x, y\}, then the subsets of S are: \{\}, \{x\}, \{y\}, \{x,y\}
+    For example, if S is the set {x, y}, then the subsets of S are: {}, {x}, {y}, {x,y}
 
-    Hence, the power set of S is \{\{\}, \{x\}, \{y\}, \{x, y\}\}, which should be the output of the program. Provide and cover all the test cases including null set and empty set...
+    Hence, the power set of S is {{}, {x}, {y}, {x, y}}, which should be the output of the program. Provide and cover all the test cases including null set and empty set...
 
 These are the data-structures and algorithmic concepts, which are mostly covered and you should also learn them to apply in your daily&nbsp;tasks:
 

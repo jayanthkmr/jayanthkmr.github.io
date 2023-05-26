@@ -39,6 +39,7 @@ feed.entries.each do |e|
 layout: post
 author: #{e.author}
 title: #{e.title}
+link: #{e.url}
 date: #{e.published}
 background: #{img}
 ---

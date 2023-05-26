@@ -2,6 +2,7 @@
 layout: post
 author: Jayanth Kumar
 title: The Panchatantra to be an Excellent Engineering Leader
+link: https://blog.jaykmr.com/the-panchatantra-to-be-an-excellent-engineering-leader-6c47525f2891?source=rss----5c34e71e048---4
 date: 2022-05-28 05:09:01 UTC
 background: //cdn-images-1.medium.com/max/628/1*JWcewMOQKuaVtiUA7K6YLQ.png
 ---

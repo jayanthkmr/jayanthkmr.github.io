@@ -2,6 +2,7 @@
 layout: post
 author: Jayanth Kumar
 title: The Right Approach to Software Engineering
+link: https://blog.jaykmr.com/the-right-approach-to-software-engineering-57f0b0fbb8e?source=rss----5c34e71e048---4
 date: 2022-05-07 06:19:02 UTC
 background: //cdn-images-1.medium.com/max/1000/1*4gY3uqX95jW--gMwXCaX6Q.gif
 ---

@@ -72,14 +72,13 @@ See you around 🎩
 {% for e in site.medium_posts %}
 
 <div class="row">
-  <h3><a href="{{ e.url }}">{{ e.title }}</a></h3>
-  <p>{{e.excerpt}}</p>
+  <h3><a href="{{ e.link }}">{{ e.title }}</a></h3>
+  <p>{{e.excerpt}}
 
   <section class="special">
-  <ul class="actions">
-  <li><a href="{{ site.baseurl }}{{ e.url }}" class="button {% cycle '', 'alt'%}">Read More</a></li>
-  </ul>
+  <a href="{{ e.link }}" class="button {% cycle '', 'alt'%}">Read More</a>
   </section>
+  </p>
   {% endfor %}
 </div>
 </section>

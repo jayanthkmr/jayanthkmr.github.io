@@ -2,6 +2,7 @@
 layout: post
 author: Jayanth Kumar
 title: Architecting Event driven Systems the right way
+link: https://blog.jaykmr.com/architecting-event-driven-systems-the-right-way-1dd7f4e63f96?source=rss----5c34e71e048---4
 date: 2022-08-15 02:33:50 UTC
 background: //cdn-images-1.medium.com/max/960/1*zl9M75KgAEFfRK3ir4kxFg.png
 ---
