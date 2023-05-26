@@ -63,12 +63,23 @@ See you around 🎩
 <a href="https://twitter.com/jaynkmr?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="true">Follow @jaynkmr</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ----------
-<h2> Latest Blog Posts </h2>
+<section id="main" class="wrapper style1">
+
+  <header class="major">
+      <h2>Latest Blog Posts </h2>
+  </header>
 
 {% for e in site.medium_posts %}
 
 <div class="row">
-  <h3>{{e.title}}</h3>
-  <p>{{e.feed_content}}</p>
+  <h3><a href="{{ e.url }}">{{ e.title }}</a></h3>
+  <p>{{e.excerpt}}</p>
+   {% endfor %}
+
+  <section class="special">
+  <ul class="actions">
+  <li><a href="{{ site.baseurl }}{{ e.url }}" class="button {% cycle '', 'alt'%}">Read More</a></li>
+  </ul>
+  </section>
 </div>
-{% endfor %}
+</section>

@@ -16,6 +16,9 @@ gem "github-pages", group: :jekyll_plugins
 
 gem "jekyll"
 gem "tzinfo", ">= 1.2.10"
+gem "feedjira"
+gem "httparty"
+gem "reverse_markdown"
 
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
 gem "webrick" #https://stackoverflow.com/questions/65989040/bundle-exec-jekyll-serve-cannot-load-such-file
@@ -27,7 +30,6 @@ gem "webrick" #https://stackoverflow.com/questions/65989040/bundle-exec-jekyll-s
 group :jekyll_plugins do
   gem "jekyll-archives"
   gem "jekyll-feed"
-  gem "jekyll-display-medium-posts"
   gem 'jekyll-sitemap'
   gem 'hawkins'
   gem 'jemoji'
