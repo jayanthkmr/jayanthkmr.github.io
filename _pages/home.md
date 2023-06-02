@@ -64,7 +64,7 @@ See you around 🎩
 
 ----------
 
-<!-- <section id="main" class="wrapper style1">
+<section id="main" class="wrapper style1">
 
   <header class="major">
       <h2>Latest Blog Posts </h2>
@@ -79,14 +79,15 @@ See you around 🎩
   <section class="special">
   <a href="{{ e.link }}" style="color:black">Read More...</a>
   </section>
+  Published on {{ e.date }}
   </p>
   {% endfor %}
 </div>
-</section> -->
+</section>
 
 <!-- ---------- -->
 
-<section id="main" class="wrapper style1">
+<!-- <section id="main" class="wrapper style1">
 
   <header class="major">
       <h2>Latest Blog Posts </h2>
@@ -123,4 +124,4 @@ fetch(RSS_URL)
   });
 </script>
 
-</section>
+</section> -->
