@@ -83,7 +83,6 @@ See you around 🎩
   </p>
   {% endfor %}
 </div>
-</section>
 
 <!-- ---------- -->
 
