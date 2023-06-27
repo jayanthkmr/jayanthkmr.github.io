@@ -22,7 +22,7 @@ See you around 🎩
 
 <div>
   
-  <div style="float:center; border: 2px solid Red;text-align:center;border-radius:10px; padding:5px; background: Red;">
+  <div style="float:center; border: 2px solid #e51738;text-align:center;border-radius:10px; padding:5px; background: #e51738;">
   <a href="https://learning.oreilly.com/library/view/learning-system-design/9781098146887/" style="color:white">Learning System Design on AWS</a>
   </div> 
 
