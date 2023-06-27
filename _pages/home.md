@@ -12,7 +12,7 @@ I am Jayanth Kumar.
 
 Currently building large scale software systems as SDM III at Amazon, being one of the youngest Engineering Leader in a FAANG . I am a published poet, a technical architect, an entrepreneur, an angel investor, an engineering leader and even, an assistant professor too, basically a Polymath.
 
-Subscribe to my website to read *System Manifesto* or read my poetry anthology - "*Gonzo Poet and through his lens*" or follow my blog - "*Technopreneurial Treatises*" for more engineering and entrepreneurial philosophical content.
+Subscribe to my website to read my book *Learning System Design on AWS* or *System Manifesto* or read my poetry anthology - "*Gonzo Poet and through his lens*" or follow my blog - "*Technopreneurial Treatises*" for more engineering and entrepreneurial philosophical content.
 
  You can book a 1:1 call or ask any queries you may have on my [*topmate.io page*](https://topmate.io/jaykmr). Whether you need help with my areas of expertise or just want to chat about anything, I'm available.
 
@@ -22,6 +22,10 @@ See you around 🎩
 
 <div>
   
+  <div style="float:center; border: 2px solid Red;text-align:center;border-radius:10px; padding:5px; background: Red;">
+  <a href="https://learning.oreilly.com/library/view/learning-system-design/9781098146887/" style="color:white">Learning System Design on AWS</a>
+  </div> 
+
   <div style="float:center; border: 2px solid #cfe2ef;text-align:center;border-radius:10px; padding:5px; background: #cfe2ef;">
   <a href="https://jaykmr.com/system-manifesto/" style="color:black">System Manifesto</a>
   </div> 
@@ -34,13 +38,14 @@ See you around 🎩
   <div style="float:center; border: 2px solid MistyRose;text-align:center;border-radius:10px; padding:5px; background: MistyRose;">
   <a href="https://www.amazon.in/Gonzo-Poet-through-his-lens-ebook/dp/B07M6CWQJJ/" style="color:black">Poetry Anthology</a>
   </div> 
-
+  
 </div>
 <br/>
 <hr width="50%" />
 
 ## Updates
 
+- 🔨 Pre-release of my book - [*Learning System Design on AWS*](https://learning.oreilly.com/library/view/learning-system-design/9781098146887/)✨ 📚
 - 🔨 Set up of my mentorship profile - [*topmate.io page*](https://topmate.io/jaykmr)✨ 🤝🏼
 - 🔨 Added gallery of my research and work associations [Gallery - Jayanth Kumar](https://jaykmr.com/gallery/)✨ 📷
 - 🔨 Release of my [Personal Website - Jayanth Kumar](https://jaykmr.com)✨ 🚀
