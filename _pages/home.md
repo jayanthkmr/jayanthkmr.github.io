@@ -64,6 +64,10 @@ See you around 🎩
 </details>
 
 ----------
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="HORIZONTAL" data-vanity="jaykmr" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/jaykmr?trk=profile-badge">Jayanth K.</a></div>
+
+----------
 <a class="twitter-timeline" data-width="600" data-height="1000" data-dnt="true" data-theme="light" href="https://twitter.com/jaynkmr?ref_src=twsrc%5Etfw">Tweets by Jayanth Kumar</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8" ></script>
 <a href="https://twitter.com/jaynkmr?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="true">Follow @jaynkmr</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
