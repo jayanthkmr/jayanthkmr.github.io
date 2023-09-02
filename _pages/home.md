@@ -7,7 +7,7 @@ marp: false
 ---
 <h1> Hey 👋 there, viewers 👀! </h1>
 <h2>
-I am <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="jaykmr" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/jaykmr?trk=profile-badge">Jayanth Kumar</a></div>. 
+I am <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="jaykmr" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/jaykmr?trk=profile-badge">Jayanth Kumar</a></div> 
 </h2>
 
 Currently building large scale software systems as SDM III at Amazon, being one of the youngest Engineering Leader in a FAANG . I am a published poet, a technical architect, an entrepreneur, an angel investor, an engineering leader and even, an assistant professor too, basically a Polymath.
