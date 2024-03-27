@@ -55,10 +55,10 @@ See you around 🎩
 
 
 <details markdown=1><summary markdown="span"><b>Click here for archived news</b></summary>
-* <sub> March 2024: I got AIR 86 in GATE 2024 for Data Science and Artificial Intelligence (DA), scoring 794 marks. </sub>
+* <sub> March 2024: I secured AIR 86 in GATE 2024 for Data Science and Artificial Intelligence (DA), scoring 794 marks. </sub>
 * <sub> January 2023: I currently, work for Twitch TQ team in Amazon. </sub>
 * <sub>  April 2022: I have joined Amazon.</sub>
-* <sub>  December 2019: I got AIR 13 in UGC NTA NET in Computer Science and Applications paper, scoring 190 marks out of 300 with percentile of 99.9719978., thus qualifying for Assistant Professor Position.</sub>
+* <sub>  December 2019: I secured AIR 13 in UGC NTA NET in Computer Science and Applications paper, scoring 190 marks out of 300 with percentile of 99.9719978., thus qualifying for Assistant Professor Position.</sub>
 
 
   <!-- <sub>  Feb 2020: I will be presenting a talk on "*Modelling excitation energy transfer and trapping in the filamentous cyanobacterium Anabaena variabilis PCC7120* at, "*Optimization of light energy conversion in plants and microalgae*", conference, Porto, Portugal.</sub> -->
