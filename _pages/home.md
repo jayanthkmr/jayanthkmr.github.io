@@ -45,18 +45,20 @@ See you around 🎩
 
 ## Updates
 
+- 🔨 Currently, filling another patent with Amazon at USPTO
+- 🔨 Secured AIR 86 in GATE Data Science and Artificial Intelligence (DA), scoring 794 marks
 - 🔨 Pre-release of my book - [*Learning System Design on AWS*](https://learning.oreilly.com/library/view/learning-system-design/9781098146887/)✨ 📚
 - 🔨 Set up of my mentorship profile - [*topmate.io page*](https://topmate.io/jaykmr)✨ 🤝🏼
 - 🔨 Added gallery of my research and work associations [Gallery - Jayanth Kumar](https://jaykmr.com/gallery/)✨ 📷
 - 🔨 Release of my [Personal Website - Jayanth Kumar](https://jaykmr.com)✨ 🚀
 - 🔨 Set up of the blog - [Technopreneurial Treatises](https://blog.jaykmr.com)✨ 🖊️
-<!-- - Would you like to search for scientific keywords and obiatin it's related analytics from publications to authors? Here's link to one of my [*code for fun*](https://avratanubiswas.github.io/cats-and-codes/) project, a web-app, called [PubLit](https://share.streamlit.io/avratanubiswas/publit/main/publit.py) 🚀
- -->
+
 
 <details markdown=1><summary markdown="span"><b>Click here for archived news</b></summary>
-
+* <sub> March 2024: I got AIR 86 in GATE 2024 for Data Science and Artificial Intelligence (DA), scoring 794 marks. </sub>
 * <sub> January 2023: I currently, work for Twitch TQ team in Amazon. </sub>
 * <sub>  April 2022: I have joined Amazon.</sub>
+* <sub>  December 2019: I got AIR 13 in UGC NTA NET in Computer Science and Applications paper, scoring 190 marks out of 300 with percentile of 99.9719978., thus qualifying for Assistant Professor Position.</sub>
 
 
   <!-- <sub>  Feb 2020: I will be presenting a talk on "*Modelling excitation energy transfer and trapping in the filamentous cyanobacterium Anabaena variabilis PCC7120* at, "*Optimization of light energy conversion in plants and microalgae*", conference, Porto, Portugal.</sub> -->
