@@ -45,7 +45,7 @@ See you around 🎩
 
 ## Updates
 
-- 🔨 Currently, filling another patent with Amazon at USPTO
+- 🔨 Currently, filed patent - P84475-US01 - "Systems and Methods for defining and applying Statistical Heuristics for filtering Network Traffic" with Amazon at USPTO
 - 🔨 Secured AIR 86 in GATE Data Science and Artificial Intelligence (DA), scoring 794 marks
 - 🔨 Pre-release of my book - [*Learning System Design on AWS*](https://learning.oreilly.com/library/view/learning-system-design/9781098146887/)✨ 📚
 - 🔨 Set up of my mentorship profile - [*topmate.io page*](https://topmate.io/jaykmr)✨ 🤝🏼
