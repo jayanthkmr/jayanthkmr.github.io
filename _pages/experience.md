@@ -78,8 +78,10 @@ Open-Source Projects
 
 Certifications
 --------
+![AWS Certified Machine Learning – Specialty  |  AWS Certified Data Analytics – Specialty  |  AWS Certified Database – Specialty | AWS Certified Solutions Architect – Professional](/images/certifications/img15.png "AWS Certifications") 
+
 AWS Certified Machine Learning – Specialty  |  AWS Certified Data Analytics – Specialty  |  AWS Certified Database – Specialty | AWS Certified Solutions Architect – Professional
-:-------------------------:|:-------------------------:
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 ![](/images/certifications/img13.png)  |  ![](/images/certifications/img12.png)  |  ![](/images/certifications/img11.png)  |  ![](/images/certifications/img14.png)  |
 
 * [AWS Certified Machine Learning – Specialty](https://www.credly.com/badges/57e1b710-bd6b-4224-bc56-cb65e3363787) Issued by Amazon Web Services Training and Certification

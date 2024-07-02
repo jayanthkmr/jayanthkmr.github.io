@@ -2,11 +2,7 @@
 title: "Rapid Heuristics Engine - A method and apparatus for rapidly defining and applying statistical heuristics for filtering network traffic"
 collection: patents
 permalink: /patents/2024-03-30-rapid-heuristics-engine
-excerpt: 'The present invention relates to systems and methods for a rapid heuristics engine designed to define and apply statistical heuristics for filtering network traffic. The rapid heuristics engine enables the identification and blocking of invalid requests, such as fraudulent, involuntary, or non-human traffic, to ensure the integrity of media content delivery through online resources. This invention provides a no-code or low-code interface allowing data scientists to configure heuristic rules without extensive programming knowledge, thereby accelerating the deployment process.
-
-Upon receiving a plurality of requests from various sources, the system compiles feature values associated with these requests. Heuristic rules, which include specified features and expressions defining operations on these features, are applied to determine the validity of the requests. Invalid requests identified through these heuristic rules can be blocked from accessing the media content, or adjustments can be made to quotas or records for stored traffic data. The system supports iterative testing and tuning of heuristic rules on both live and stored traffic data, facilitating rapid optimization of the heuristics.
-
-In contrast to traditional methods that require extensive coding and deployment time, the rapid heuristics engine significantly reduces the time and technical effort needed to implement heuristic rules. By enabling data scientists to independently manage the lifecycle of heuristics development, from configuration to deployment and monitoring, the system ensures faster mitigation of invalid traffic and improves overall efficiency. The system's frontend-based framework supports the creation and deployment of heuristics across multiple sources and regions, offering a flexible and scalable solution for traffic filtering.'
+excerpt: 'The Rapid Heuristics Engine provides a no-code interface for defining and applying statistical heuristics to filter invalid network traffic, significantly reducing the time and effort required for deployment and optimization. This system allows data scientists to independently manage heuristic rules, enhancing efficiency and ensuring faster mitigation of invalid traffic.'
 date: 2024-03-30
 venue: 'US Patent Office'
 patentno: TBD
