@@ -78,16 +78,11 @@ Open-Source Projects
 
 Certifications
 --------
-![AWS Certified Machine Learning – Specialty  |  AWS Certified Data Analytics – Specialty  |  AWS Certified Database – Specialty | AWS Certified Solutions Architect – Professional](/images/certifications/img15.png "AWS Certifications") 
 
-AWS Certified Machine Learning – Specialty  |  AWS Certified Data Analytics – Specialty  |  AWS Certified Database – Specialty | AWS Certified Solutions Architect – Professional
+[AWS Certified Machine Learning – Specialty](https://www.credly.com/badges/57e1b710-bd6b-4224-bc56-cb65e3363787) | [AWS Certified Data Analytics – Specialty](https://www.credly.com/badges/73f3faa9-1782-4ade-9004-14f5bbcfed14)  | [AWS Certified Database – Specialty](https://www.credly.com/badges/acc39f10-141c-40ee-b20e-3e04eb0592e1) | [AWS Certified Solutions Architect – Professional](https://www.credly.com/badges/7a01b42a-1edd-446b-9c8b-db8847d6d8c4)
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-![](/images/certifications/img13.png)  |  ![](/images/certifications/img12.png)  |  ![](/images/certifications/img11.png)  |  ![](/images/certifications/img14.png)  |
+![](/images/certifications/img13.png)  |  ![](/images/certifications/img12.png)  |  ![](/images/certifications/img11.png)  |  ![](/images/certifications/img14.png)  
 
-* [AWS Certified Machine Learning – Specialty](https://www.credly.com/badges/57e1b710-bd6b-4224-bc56-cb65e3363787) Issued by Amazon Web Services Training and Certification
-* [AWS Certified Data Analytics – Specialty](https://www.credly.com/badges/73f3faa9-1782-4ade-9004-14f5bbcfed14) Issued by Amazon Web Services Training and Certification
-* [AWS Certified Database – Specialty](https://www.credly.com/badges/acc39f10-141c-40ee-b20e-3e04eb0592e1) Issued by Amazon Web Services Training and Certification
-* [AWS Certified Solutions Architect – Professional](https://www.credly.com/badges/7a01b42a-1edd-446b-9c8b-db8847d6d8c4) Issued by Amazon Web Services Training and Certification
   
 Skills
 --------
