@@ -17,7 +17,9 @@ Currently building large scale software systems as SDM III at Amazon, being one 
 
 Subscribe to my website to read my book *Learning System Design on AWS* or *System Manifesto* or read my poetry anthology - "*Gonzo Poet and through his lens*" or follow my blog - "*Technopreneurial Treatises*" for more engineering and entrepreneurial philosophical content.
 
- You can book a 1:1 call or ask any queries you may have on my [email](mailto:jayanthjaiswal15@gmail.com). Whether you need help with my areas of expertise or just want to chat about anything, I'm available.
+Also, check out my startup product [Education E-board](https://edapp.jaykmr.com) for education to help students, parents and teachers in teaching and learning.  
+
+You can book a 1:1 call or ask any queries you may have on my [email](mailto:jayanthjaiswal15@gmail.com). Whether you need help with my areas of expertise or just want to chat about anything, I'm available.
 
 See you around 🎩
 
@@ -47,6 +49,7 @@ See you around 🎩
 <hr width="50%" />
 
 ## Updates
+- 🔨 Launch of my startup product [Education E-board](https://edapp.jaykmr.com) ✨💡
 - 🔨  Release of my poetry book - [Gonzo Poet and Through his Lens](https://www.amazon.com/Gonzo-Poet-through-his-lens/dp/1792911742/ref=tmm_pap_swatch_0) with illustrations on amazon.com as paperback edition ✨ 📚
 - 🔨 Acceptance of my poster presentation - [*Enhancing Protein Crystallization Prediction through Protein Embeddings*](https://iscb.junolive.co/ISMB24/live/exhibitor/ismb2024_poster_1399) in the [32nd International Conference on Intelligent Systems for Molecular Biology (ISMB) 2024](https://www.iscb.org/ismb2024/home), to be held at Montreal, Quebec, Canada 📝
 - 🔨 Currently, filed patent - P84475-US01 - "Systems and Methods for defining and applying Statistical Heuristics for filtering Network Traffic" with Amazon at USPTO

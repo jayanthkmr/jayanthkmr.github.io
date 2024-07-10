@@ -7,8 +7,8 @@ main:
   - title: "Experience"
     url: /experience/
 
-  # - title: "Entreprenuership"
-  #   url: /entreprenuership/
+  - title: "AI Tutor"
+    url: /edapp/
 
   - title: "AWS Book"
     url: /aws-book/
