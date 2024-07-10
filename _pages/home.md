@@ -74,8 +74,8 @@ See you around 🎩
 ----------
 <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 ----------
-<a class="twitter-timeline" data-width="600" data-height="1000" data-dnt="true" data-theme="light" href="https://twitter.com/jaynkmr?ref_src=twsrc%5Etfw">Tweets by Jayanth Kumar</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8" ></script>
-<a href="https://twitter.com/jaynkmr?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="true">Follow @jaynkmr</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" data-width="600" data-height="1000" data-dnt="true" data-theme="light" href="https://twitter.com/jayanth_kmr?ref_src=twsrc%5Etfw">Tweets by Jayanth Kumar</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8" ></script>
+<a href="https://twitter.com/jayanth_kmr?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="true">Follow @jayanth_kmr</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ----------
 
