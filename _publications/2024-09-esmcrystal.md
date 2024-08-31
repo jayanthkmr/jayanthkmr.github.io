@@ -1,0 +1,13 @@
+---
+title: "ESMCrystal: Enhancing Protein Crystallization Prediction Through Protein Embeddings"
+collection: publications
+permalink: /publications/2024-09-esmcrystal
+excerpt: 'Protein crystallization is a critical yet challenging step in determining protein structures, crucial for advancing our understanding of biological mechanisms. This study introduces ESMCrystal, a novel approach leveraging protein embeddings derived from the advanced Meta ESMFold2 architecture to predict protein crystallization. By integrating transfer learning techniques, ESMCrystal models demonstrate enhanced predictive performance across various datasets, highlighting the potential of deep learning in structural biology. This research not only improves the predictability of protein crystallization but also sets the stage for broader applications of machine learning in understanding complex biological systems. The standalone source code and models, along with the inference server are available at https://huggingface.co/jaykmr/ESMCrystal_t6_8M_v1 and https://huggingface.co/jaykmr/ESMCrystal_t12_35M_v2.'
+date: 2024-09-01
+venue: 'Computational Intelligence Methods for Bioinformatics and Biostatistics (CIBB)'
+paperurl: 'https://easychair.org/publications/preprint/FTCX'
+citation: 'Jayanth Kumar, Kavya Jayakumar and Jayaprakash Sundararaj. ESMCrystal: Enhancing Protein Crystallization Prediction Through Protein Embeddings. Computational Intelligence Methods for Bioinformatics and Biostatistics (CIBB) 2024.'
+---
+Protein crystallization is a critical yet challenging step in determining protein structures, crucial for advancing our understanding of biological mechanisms. This study introduces ESMCrystal, a novel approach leveraging protein embeddings derived from the advanced Meta ESMFold2 architecture to predict protein crystallization. By integrating transfer learning techniques, ESMCrystal models demonstrate enhanced predictive performance across various datasets, highlighting the potential of deep learning in structural biology. This research not only improves the predictability of protein crystallization but also sets the stage for broader applications of machine learning in understanding complex biological systems. The standalone source code and models, along with the inference server are available at https://huggingface.co/jaykmr/ESMCrystal_t6_8M_v1 and https://huggingface.co/jaykmr/ESMCrystal_t12_35M_v2.
+
+[Download paper here](https://easychair.org/publications/preprint/FTCX/open)
