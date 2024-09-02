@@ -49,23 +49,23 @@ See you around 🎩
 <hr width="50%" />
 
 ## Updates
+-  🔨 Acceptance of our oral presentation - [*ESMCrystal: Enhancing Protein Crystallization Prediction through Protein Embeddings*](https://easychair.org/publications/preprint/FTCX) in the [19th conference on
+Computational Intelligence methods for Bioinformatics and Biostatistics 2024](https://www.bioinformatics-sannio.org/cibb2024/), to be held at Benevento, Italy from September 4-6,2024 📝
 - 🔨 Launch of my startup product [Education E-board](https://edapp.jaykmr.com) ✨💡
 - 🔨  Release of my poetry book - [Gonzo Poet and Through his Lens](https://www.amazon.com/Gonzo-Poet-through-his-lens/dp/1792911742/ref=tmm_pap_swatch_0) with illustrations on amazon.com as paperback edition ✨ 📚
-- 🔨 Acceptance of my poster presentation - [*Enhancing Protein Crystallization Prediction through Protein Embeddings*](https://iscb.junolive.co/ISMB24/live/exhibitor/ismb2024_poster_1399) in the [32nd International Conference on Intelligent Systems for Molecular Biology (ISMB) 2024](https://www.iscb.org/ismb2024/home), to be held at Montreal, Quebec, Canada 📝
+- 🔨 Acceptance of my poster presentation - [*Enhancing Protein Crystallization Prediction through Protein Embeddings*](https://iscb.junolive.co/ISMB24/live/exhibitor/ismb2024_poster_1399) in the [32nd International Conference on Intelligent Systems for Molecular Biology (ISMB) 2024](https://www.iscb.org/ismb2024/home), to be held at Montreal, Quebec, Canada from July 12-16,2024 📝
 - 🔨 Currently, filed patent - P84475-US01 - "Systems and Methods for defining and applying Statistical Heuristics for filtering Network Traffic" with Amazon at USPTO
-- 🔨 Secured AIR 86 in GATE Data Science and Artificial Intelligence (DA), scoring 794 marks
 - 🔨 Pre-release of my book - [*Learning System Design on AWS*](https://learning.oreilly.com/library/view/learning-system-design/9781098146887/)✨ 📚
-- 🔨 Added gallery of my research and work associations [Gallery - Jayanth Kumar](https://jaykmr.com/gallery/)✨ 📷
-- 🔨 Release of my [Personal Website - Jayanth Kumar](https://jaykmr.com)✨ 🚀
-- 🔨 Set up of the blog - [Technopreneurial Treatises](https://blog.jaykmr.com)✨ 🖊️
 
 
 <details markdown=1><summary markdown="span"><b>Click here for archived news</b></summary>
-* <sub> March 2024: I secured AIR 86 in GATE 2024 for Data Science and Artificial Intelligence (DA), scoring 794 marks. </sub>
+* <sub> March 2024: I secured AIR 86 in GATE 2024 for Data Science and Artificial Intelligence (DA), scoring 794 marks. 
 * <sub> January 2023: I currently, work for Twitch TQ team in Amazon. </sub>
 * <sub>  April 2022: I have joined Amazon.</sub>
 * <sub>  December 2019: I secured AIR 13 in UGC NTA NET in Computer Science and Applications paper, scoring 190 marks out of 300 with percentile of 99.9719978., thus qualifying for Assistant Professor Position.</sub>
-
+* <sub> Added gallery of my research and work associations [Gallery - Jayanth Kumar](https://jaykmr.com/gallery/)</sub>
+  Release of my [Personal Website - Jayanth Kumar](https://jaykmr.com) </sub>
+* <sub> Set up of the blog - [Technopreneurial Treatises](https://blog.jaykmr.com) </sub>
 
   <!-- <sub>  Feb 2020: I will be presenting a talk on "*Modelling excitation energy transfer and trapping in the filamentous cyanobacterium Anabaena variabilis PCC7120* at, "*Optimization of light energy conversion in plants and microalgae*", conference, Porto, Portugal.</sub> -->
 

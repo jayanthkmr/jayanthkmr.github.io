@@ -13,11 +13,11 @@ Let me introduce myself.
 
 I am [Jayanth Kumar](https://linktr.ee/jaykmr?source=about_page "https://linktr.ee/jaykmr"), currently building large scale software systems as SDM III at Amazon, being one of the youngest Engineering Leader in a [FAANG](https://www.investopedia.com/terms/f/faang-stocks.asp?source=about_page "https://www.investopedia.com/terms/f/faang-stocks.asp") .
 
-I am an [INFJ-A (the Advocate)](https://www.16personalities.com/infj-personality?source=about_page "https://www.16personalities.com/infj-personality")  [millenial](https://en.wikipedia.org/wiki/Millennials?source=about_page "https://en.wikipedia.org/wiki/Millennials")  [polymath](https://en.wikipedia.org/wiki/Polymath?source=about_page "https://en.wikipedia.org/wiki/Polymath") - a published poet, a technical architect, an entrepreneur, an engineering leader and an assistant professor too.
+I am an [INTJ-A (the Architect)](https://www.16personalities.com/intj-personality?source=about_page "https://www.16personalities.com/intj-personality")  [millenial](https://en.wikipedia.org/wiki/Millennials?source=about_page "https://en.wikipedia.org/wiki/Millennials")  [polymath](https://en.wikipedia.org/wiki/Polymath?source=about_page "https://en.wikipedia.org/wiki/Polymath") - a published poet, a technical architect, an entrepreneur, an engineering leader and an assistant professor too.
 
 Here is me in a nutshell, by my personality type.
 
-![](https://miro.medium.com/max/474/1*k4zIurxaJJKw-asE1lnGwg.jpeg)
+![](https://miro.medium.com/v2/resize:fit:1400/format:webp/0*3hFK2qs7rltrstMa.jpg)
 
 Here is a small walk-through of my journey so far.
 
