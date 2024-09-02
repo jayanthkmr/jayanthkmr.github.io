@@ -64,7 +64,7 @@ Computational Intelligence methods for Bioinformatics and Biostatistics 2024](ht
 * <sub>  April 2022: I have joined Amazon.</sub>
 * <sub>  December 2019: I secured AIR 13 in UGC NTA NET in Computer Science and Applications paper, scoring 190 marks out of 300 with percentile of 99.9719978., thus qualifying for Assistant Professor Position.</sub>
 * <sub> Added gallery of my research and work associations [Gallery - Jayanth Kumar](https://jaykmr.com/gallery/)</sub>
-  Release of my [Personal Website - Jayanth Kumar](https://jaykmr.com) </sub>
+* <sub>  Release of my [Personal Website - Jayanth Kumar](https://jaykmr.com) </sub>
 * <sub> Set up of the blog - [Technopreneurial Treatises](https://blog.jaykmr.com) </sub>
 
   <!-- <sub>  Feb 2020: I will be presenting a talk on "*Modelling excitation energy transfer and trapping in the filamentous cyanobacterium Anabaena variabilis PCC7120* at, "*Optimization of light energy conversion in plants and microalgae*", conference, Porto, Portugal.</sub> -->
