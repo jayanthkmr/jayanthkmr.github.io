@@ -7,11 +7,15 @@ main:
   - title: "Experience"
     url: /experience/
 
-  - title: "AI Tutor"
-    url: /edapp/
+  # - title: "AI Tutor"
+  #   url: /edapp/
 
   - title: "AWS Book"
     url: /aws-book/
+
+  - title: "Poems"
+    url: /poetry-book/
+
 
   - title: "Blog"
     url: /blog/
