@@ -32,8 +32,8 @@ main:
   - title: "System Manifesto"
     url: /system-manifesto/     
 
-  # - title: "CV"
-  #   url: /cv/
+  - title: "CV"
+    url: /cv/
 
   - title: "Gallery"
     url: /gallery/
