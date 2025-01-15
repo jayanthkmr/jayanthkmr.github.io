@@ -13,11 +13,13 @@ I am <a href="https://jaykmr.com">Jayanth Kumar</a>
 </div> 
 </h2>
 
-Currently building large scale software systems as SDM III at Amazon, being one of the youngest Engineering Leader in a FAANG . I am a published poet, a technical architect, an entrepreneur, an angel investor, an engineering leader and even, an assistant professor too, basically a Polymath.
+Currently building best in class intelligence solutions for real estate and capital markets stakeholders. I am a published poet, a technical architect, an entrepreneur, an angel investor, an engineering leader and even, an assistant professor too, basically a Polymath. 
 
-Subscribe to my website to read my book *Learning System Design on AWS* or *System Manifesto* or read my poetry anthology - "*Gonzo Poet and through his lens*" or follow my blog - "*Technopreneurial Treatises*" for more engineering and entrepreneurial philosophical content.
+I earned my bachelor’s degree from [IIT Bombay](https://en.wikipedia.org/wiki/IIT_Bombay?source=about_page "https://en.wikipedia.org/wiki/IIT_Bombay") and my master’s degree from [University of California Los Angeles](https://en.wikipedia.org/wiki/University_of_California,_Los_Angeles?source=about_page "https://en.wikipedia.org/wiki/University_of_California,_Los_Angeles")  in Computer Science departments. I formerly held the positions of software engineer at [SAP SE, Germany](https://en.wikipedia.org/wiki/SAP?source=about_page "https://en.wikipedia.org/wiki/SAP") and [SAP Labs, Silicon Valley](https://en.wikipedia.org/wiki/SAP?source=about_page "https://en.wikipedia.org/wiki/SAP?source=about_page"). Later, as an entrepreneur, I held the positions of Head of Engineering at [Goodhealthapp](https://www.crunchbase.com/organization/goodhealth-dde4?source=about_page "https://www.crunchbase.com/organization/goodhealth-dde4"), Engineering Manager at [Delhivery](https://en.wikipedia.org/wiki/Delhivery?source=about_page "https://en.wikipedia.org/wiki/Delhivery"), and later as Software Development Manager at [Amazon India](https://en.wikipedia.org/wiki/Amazon_(company)?source=about_page "https://en.wikipedia.org/wiki/Amazon_(company)"), as one of the youngest Engineering Leader in a FAANG. These challenging experiences made me grow not just into Technology but also, into People, Processes and Product leadership.
 
-Also, check out my startup product [Education E-board](https://edapp.jaykmr.com) for education to help students, parents and teachers in teaching and learning.  
+I always seek to challenge myself with new learning opportunities and focus on building robust mechanisms and systems, which will stand the test of the time.
+
+Subscribe to my website to read my book *Learning System Design on AWS* or *System Manifesto* or read my poetry anthology - "*Gonzo Poet and through his lens*" or follow my blog - "*Technopreneurial Treatises*" for more engineering and entrepreneurial philosophical content. 
 
 You can book a 1:1 call or ask any queries you may have on my [email](mailto:jayanthjaiswal15@gmail.com). Whether you need help with my areas of expertise or just want to chat about anything, I'm available.
 
@@ -49,16 +51,18 @@ See you around 🎩
 <hr width="50%" />
 
 ## Updates
--  🔨 Acceptance of our oral presentation - [*ESMCrystal: Enhancing Protein Crystallization Prediction through Protein Embeddings*](https://easychair.org/publications/preprint/FTCX) in the [19th conference on
-Computational Intelligence methods for Bioinformatics and Biostatistics 2024](https://www.bioinformatics-sannio.org/cibb2024/), to be held at Benevento, Italy from September 4-6,2024 📝
-- 🔨 Launch of my startup product [Education E-board](https://edapp.jaykmr.com) ✨💡
+- 📈 Secured a score of 86.77 (98.26 percentile) in [CAT 2024](https://en.wikipedia.org/wiki/Common_Admission_Test?source=about_page "https://en.wikipedia.org/wiki/Common_Admission_Test") held in November and received interview calls from [IIM Ahmedabad](https://en.wikipedia.org/wiki/Indian_Institute_of_Management_Ahmedabad?source=about_page "https://en.wikipedia.org/wiki/Indian_Institute_of_Management_Ahmedabad") and [IIM Bangalore](https://en.wikipedia.org/wiki/Indian_Institute_of_Management_Bangalore?source=about_page "https://en.wikipedia.org/wiki/Indian_Institute_of_Management_Bangalore") 🎉
+- 🎓 Attended IIT Bombay Class of 2014 Reunion in November 2024, caught up with friends, and presented a copy of my book to the Dean and alumni 📖✨
+- 🚀 Joined [Turl Street Group](https://www.turlstreet.com) as CTO in September 2024 🌟
 - 🔨  Release of my poetry book - [Gonzo Poet and Through his Lens](https://www.amazon.com/Gonzo-Poet-through-his-lens/dp/1792911742/ref=tmm_pap_swatch_0) with illustrations on amazon.com as paperback edition ✨ 📚
-- 🔨 Acceptance of my poster presentation - [*Enhancing Protein Crystallization Prediction through Protein Embeddings*](https://iscb.junolive.co/ISMB24/live/exhibitor/ismb2024_poster_1399) in the [32nd International Conference on Intelligent Systems for Molecular Biology (ISMB) 2024](https://www.iscb.org/ismb2024/home), to be held at Montreal, Quebec, Canada from July 12-16,2024 📝
-- 🔨 Currently, filed patent - P84475-US01 - "Systems and Methods for defining and applying Statistical Heuristics for filtering Network Traffic" with Amazon at USPTO
 - 🔨 Pre-release of my book - [*Learning System Design on AWS*](https://learning.oreilly.com/library/view/learning-system-design/9781098146887/)✨ 📚
 
 
 <details markdown=1><summary markdown="span"><b>Click here for archived news</b></summary>
+* <sub> September 2024: I presented my oral presentation - [*ESMCrystal: Enhancing Protein Crystallization Prediction through Protein Embeddings*](https://easychair.org/publications/preprint/FTCX) in the [19th conference on
+Computational Intelligence methods for Bioinformatics and Biostatistics 2024](https://www.bioinformatics-sannio.org/cibb2024/), held at Benevento, Italy from September 4-6,2024 📝</sub>
+* <sub> July 2024: I presented my poster - [*Enhancing Protein Crystallization Prediction through Protein Embeddings*](https://iscb.junolive.co/ISMB24/live/exhibitor/ismb2024_poster_1399) in the [32nd International Conference on Intelligent Systems for Molecular Biology (ISMB) 2024](https://www.iscb.org/ismb2024/home), held at Montreal, Quebec, Canada from July 12-16,2024</sub>
+* <sub> April 2024: I filed a patent - P84475-US01 - "Systems and Methods for defining and applying Statistical Heuristics for filtering Network Traffic" with Amazon at USPTO</sub>
 * <sub> March 2024: I secured AIR 86 in GATE 2024 for Data Science and Artificial Intelligence (DA), scoring 794 marks. 
 * <sub> January 2023: I currently, work for Twitch TQ team in Amazon. </sub>
 * <sub>  April 2022: I have joined Amazon.</sub>

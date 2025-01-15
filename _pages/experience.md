@@ -16,7 +16,10 @@ Education
 
 Work Experience
 --------
-* *April 2022 - Present* : **Software Development Manager III**, Distribution Center Technology, [Amazon](https://amazon.com), Bangalore, India
+
+* *September 2024 - Present* : **Chief Technology Officer**, [Turl Street Group](https://www.turlstreet.com/?source=about_page "https://www.turlstreet.com/"), Los Angeles, California, US
+
+* *April 2022 - May 2024* : **Software Development Manager III**, Distribution Center Technology, [Amazon](https://amazon.com), Bangalore, India
 
 * *April 2021 - April 2022* : **Engineering Manager**, Logistics SaaS Platform & Solutions, [Delhivery](https://www.delhivery.com/), Bangalore, India
 
@@ -51,15 +54,18 @@ Publisher : Amazon | ISBN : 9781792911743
 
 Awards
 --------
+* Awarded Amazon Inventor Puzzle piece for filing a patent with the USPTO within my first year at Amazon Ads in April 2024
+* Awarded Spot Award for performance in the Trenitalia POC at SAP SE Germany after the deal closing in September 2015  
 * Won 3<sup>rd</sup> Best Verifiability, Reproducibility and Working Description Award for poster presentation and system demonstration in CICLING 2015 at Cairo, Egypt
 * Won GSQuantify , an all India quant problem-solving contest organized by Goldman Sachs in 2013
 * Represented IIT Bombay at the Asia Regional Finals of ACM ICPC Kharagpur in 2012
-* Awarded Gold Medal in Selection Camp for International Chemistry Olympiad
-for being amongst the top 36 students in INChO (Indian National Chemistry Olympiad), 2010
+* Awarded Gold Medal in Selection Camp for International Chemistry Olympiad for being amongst the top 36 students in INChO (Indian National Chemistry Olympiad), 2010
 * Awarded Merit Certificate (top 1% nationwide) in National Standard Examination in Physics, 2010
 
 Scholastic
 --------
+* Score of 86.77 (98.26 percentile) in CAT 2024
+* All India Rank 86 for Data Science and Artificial Intelligence (DA) in GATE 2024
 * All India Rank 13 for Computer Science and Applications in University Grants Commission - NET 2019
 * All India Rank 168 in IIT-Joint Entrance Examination 2010
 * Hindustan Pratibha Samman for securing state rank 2 in All India Secondary School Exam 2008

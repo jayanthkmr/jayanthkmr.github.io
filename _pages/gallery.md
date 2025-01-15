@@ -18,6 +18,11 @@ author_profile: true
 </video> -->
 
 <figure>
+  <img src="/images/gallery/img_iitb_reunion.jpeg" alt="amazon" style="width:90%">
+  <figcaption>IIT Bombay Class of 2014 Reunion 2024.</figcaption>
+</figure>
+
+<figure>
   <img src="/images/gallery/img_amazon.jpeg" alt="amazon" style="width:90%">
   <figcaption>Amazon 2022 WAVE Team Offsite Organizer.</figcaption>
 </figure>
@@ -50,5 +55,10 @@ author_profile: true
 <figure>
   <img src="/images/gallery/img_kv.jpeg" alt="erts" style="width:90%">
   <figcaption>ERTS Lab IIT Bombay summer research group 2011 under Prof. Kavi Arya.</figcaption>
+</figure>
+
+<figure>
+  <img src="/images/gallery/img_super30.jpeg" alt="amazon" style="width:90%">
+  <figcaption>[Super 30](https://en.wikipedia.org/wiki/Super_30?source=about_page "https://en.wikipedia.org/wiki/Super_30") [Anand Kumar](https://en.wikipedia.org/wiki/Anand_Kumar?source=about_page "https://en.wikipedia.org/wiki/Anand_Kumar"), my teacher and mentor in 2008.</figcaption>
 </figure>
 
