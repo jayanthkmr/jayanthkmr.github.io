@@ -17,7 +17,7 @@ Education
 Work Experience
 --------
 
-* *September 2024 - Present* : **Chief Technology Officer**, [Turl Street Group](https://www.turlstreet.com/?source=about_page "https://www.turlstreet.com/"), Los Angeles, California, US
+* *September 2024 - Present* : **Chief Technology Officer**, [Turl Street Group](https://turlstreetgroup.com/ "https://turlstreetgroup.com/"), Los Angeles, California, US
 
 * *April 2022 - May 2024* : **Software Development Manager III**, Distribution Center Technology, [Amazon](https://amazon.com), Bangalore, India
 

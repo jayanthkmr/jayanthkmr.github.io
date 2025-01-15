@@ -59,6 +59,6 @@ author_profile: true
 
 <figure>
   <img src="/images/gallery/img_super30.jpeg" alt="amazon" style="width:90%">
-  <figcaption>[Super 30](https://en.wikipedia.org/wiki/Super_30?source=about_page "https://en.wikipedia.org/wiki/Super_30") [Anand Kumar](https://en.wikipedia.org/wiki/Anand_Kumar?source=about_page "https://en.wikipedia.org/wiki/Anand_Kumar"), my teacher and mentor in 2008.</figcaption>
+  <figcaption>Anand Kumar, my Super30 teacher and mentor in 2008.</figcaption>
 </figure>
 
