@@ -7,18 +7,17 @@ main:
   - title: "Experience"
     url: /experience/
 
-  # - title: "AI Tutor"
-  #   url: /edapp/
+  - title: "Talks"
+    url: /talks/
+
+  - title: "Blog"
+    url: /blog/
 
   - title: "AWS Book"
     url: /aws-book/
 
   - title: "Poems"
     url: /poetry-book/
-
-
-  - title: "Blog"
-    url: /blog/
 
   # - title: "Mentorship"
   #   url: /topmate/
@@ -44,8 +43,6 @@ main:
   # - title: "Teaching"
   #   url: /teaching/
 
-  # - title: "Talks"
-  #   url: /talks/
 
 
     

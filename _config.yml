@@ -195,7 +195,10 @@ collections:
   # portfolio:
   #   output: true
   #   permalink: /:collection/:path/
-  # talks:
+  talks:
+    output: true
+    permalink: /:collection/:path/
+  # podcasts:
   #   output: true
   #   permalink: /:collection/:path/
 
@@ -273,6 +276,14 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+  # _podcasts
+  # - scope:
+  #     path: ""
+  #     type: podcasts
+  #   values:
+  #     layout: talk
+  #     author_profile: true
+  #     share: true
 
 # Sass/SCSS
 sass:
