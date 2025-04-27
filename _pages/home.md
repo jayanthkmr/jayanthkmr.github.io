@@ -51,15 +51,15 @@ See you around 🎩
 <hr width="50%" />
 
 ## Updates
-- 🛠️ Launched the beta of [*Gathergov*](https://gathergov.com) in January 2025 — [Turl Street Group](https://turlstreetgroup.com)'s first product serving real estate and capital markets stakeholders.
-- 🎉 Received admission to the Post Graduate Programme (PGP) at [*IIM Bangalore*](https://en.wikipedia.org/wiki/Indian_Institute_of_Management_Bangalore?source=about_page "https://en.wikipedia.org/wiki/Indian_Institute_of_Management_Bangalore") (Class of 2025–27)! 
+- 🛠️ Launched the beta of [*Gathergov*](https://gathergov.com) in February 2025 — [Turl Street Group](https://turlstreetgroup.com)'s first product serving real estate and capital markets stakeholders. 💲 
+- 🎉 Received admission to the Post Graduate Programme (PGP) at [*IIM Bangalore*](https://en.wikipedia.org/wiki/Indian_Institute_of_Management_Bangalore?source=about_page "https://en.wikipedia.org/wiki/Indian_Institute_of_Management_Bangalore") (Class of 2025–27)! 🎉
 - 🎙️ Interviewed by [*Amish Munshi*](https://www.mainstreetmindspodcast.com) on [*The Mainstreet Minds Podcast*](https://www.youtube.com/watch?v=Q2DX6wpEWGA) ✨
-- 📰 Featured in [*Xraised*](https://xraised.com/videos/from-amazon-to-ai-driven-real-estate-jayanth-kumars-vision-at-turl-street-group/) ✨
-- 🔨 Release of my book - [*System Design on AWS*](https://learning.oreilly.com/library/view/system-design-on/9781098146887/) on [Amazon](https://www.amazon.com/System-Design-AWS-Enterprise-Solutions/dp/1098146891) ✨ 📚
-- 📈 Secured a score of 86.77 (98.26 percentile) in [CAT 2024](https://en.wikipedia.org/wiki/Common_Admission_Test?source=about_page "https://en.wikipedia.org/wiki/Common_Admission_Test") held in November 2024 🎉
+- 📰 Featured in [*Xraised*](https://www.linkedin.com/pulse/xraised-exclusive-jayanth-kumar-discusses-ai-driven-real-estate-zhw0f/) discussing about [*From Amazon to AI-Driven Real Estate: Jayanth Kumar’s Vision at Turl Street Group*](https://xraised.com/videos/from-amazon-to-ai-driven-real-estate-jayanth-kumars-vision-at-turl-street-group/)✨
+- 📚 Release of my book - [*System Design on AWS*](https://learning.oreilly.com/library/view/system-design-on/9781098146887/) on [Amazon](https://www.amazon.com/System-Design-AWS-Enterprise-Solutions/dp/1098146891) ✨ 
+- 📈 Secured a score of 86.77 (98.26 percentile) in [CAT 2024](https://en.wikipedia.org/wiki/Common_Admission_Test?source=about_page "https://en.wikipedia.org/wiki/Common_Admission_Test") held in November 2024 🥇
 - 🎓 Attended [IIT Bombay Class of 2014 Reunion](https://www.linkedin.com/posts/iit-bombay-alumni-association-iitbaa-a1a56723a_iitbaa-10yearreunion-classof2014-ugcPost-7267858901184724992-QAGF?utm_source=share&utm_medium=member_desktop) in November 2024, caught up with friends, and presented a copy of my book to the Dean and alumni 📖✨
 - 🚀 Joined [Turl Street Group](https://turlstreetgroup.com) as CTO in September 2024 to build best in class intelligence solutions for real estate and capital markets stakeholders 🌟
-- 🔨  Release of my poetry book - [Gonzo Poet and Through his Lens](https://www.amazon.com/Gonzo-Poet-through-his-lens/dp/1792911742/ref=tmm_pap_swatch_0) with illustrations on amazon.com as paperback edition ✨ 📚
+- 📚  Release of my poetry book - [Gonzo Poet and Through his Lens](https://www.amazon.com/Gonzo-Poet-through-his-lens/dp/1792911742/ref=tmm_pap_swatch_0) with illustrations on amazon.com as paperback edition ✨
 
 
 
