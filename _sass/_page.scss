@@ -105,6 +105,72 @@
     margin-top: -1.5em;
     padding-left: 1.25rem;
   }
+
+  /* Book page styles */
+  .feature__wrapper {
+    margin-bottom: 2em;
+    padding-bottom: 2em;
+    border-bottom: 1px solid #f2f3f3;
+
+    .feature__item {
+      margin-bottom: 2em;
+      font-size: 1.25em;
+
+      .archive__item-body {
+        padding: 0 1em;
+      }
+
+      h2 {
+        margin-top: 1em;
+        color: #2c3e50;
+        font-size: 1.75em;
+        text-align: center;
+      }
+
+      .archive__item-excerpt {
+        font-size: 1em;
+        line-height: 1.5;
+
+        ul {
+          list-style-type: none;
+          padding-left: 0;
+          margin: 1em 0;
+
+          li {
+            margin-bottom: 0.5em;
+            padding-left: 1.5em;
+            position: relative;
+
+            &:before {
+              content: "✓";
+              position: absolute;
+              left: 0;
+              color: #3498db;
+            }
+          }
+        }
+      }
+    }
+
+    .feature__item--center {
+      text-align: center;
+
+      .btn--primary {
+        margin-top: 1em;
+        font-size: 1.2em;
+        padding: 0.75em 2em;
+        background-color: #3498db;
+        color: #fff;
+        border-radius: 4px;
+        text-decoration: none;
+        transition: background-color 0.3s ease;
+
+        &:hover {
+          background-color: darken(#3498db, 10%);
+        }
+      }
+    }
+  }
 }
 
 .page__hero {

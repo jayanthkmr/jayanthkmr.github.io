@@ -1,16 +1,880 @@
 ---
-layout: archive
-title: "Learning System with AWS"
+layout: single
+title: "System Design with AWS"
 permalink: /aws-book/
-author_profile: true
+author_profile: false
+classes: wide
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /book/book_img.jpeg
+  caption: "System Design with AWS"
+excerpt: "The ultimate guide to designing, building, and scaling systems on AWS. Go from 'it works on my laptop' to 'it scales under load.'"
 ---
 
-<script type="text/javascript">
-var location = window.location;
-if (
-       location.hostname == "jaykmr.com"
-    && location.pathname.indexOf("/aws-book") == 0
-) {
-    location.replace("https://learning.oreilly.com/library/view/learning-system-design/9781098146887/");
+<style>
+/* Custom styles to match practicalnlp.ai */
+.page__content h1, 
+.page__content h2 {
+  text-align: center;
+  margin-top: 2em;
+  margin-bottom: 1em;
+  font-weight: bold;
+  color: #333;
 }
-</script>
+
+.page__content h2 {
+  font-size: 2em;
+  border-bottom: none;
+  padding-bottom: 0.25em;
+}
+
+.feature__wrapper {
+  margin-bottom: 3em;
+  padding-bottom: 2em;
+  border-bottom: 1px solid #eaeaea;
+}
+
+.feature__item {
+  margin-bottom: 2em;
+}
+
+.archive__item-body {
+  padding: 0 1em;
+}
+
+.archive__item-excerpt {
+  font-size: 1.1em;
+  line-height: 1.6;
+}
+
+/* Book cover showcase */
+.book-hero {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  margin: 2em 0 4em 0;
+  padding: 2em;
+  background-color: #f9f9f9;
+  border-radius: 8px;
+}
+
+.book-cover {
+  flex: 0 0 35%;
+  text-align: center;
+}
+
+.book-cover img {
+  max-width: 100%;
+  height: auto;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+  border-radius: 5px;
+  transition: transform 0.3s ease;
+}
+
+.book-cover img:hover {
+  transform: scale(1.02);
+}
+
+.book-info {
+  flex: 0 0 65%;
+  padding-left: 2em;
+}
+
+.book-info h1 {
+  font-size: 2.5em;
+  margin-top: 0;
+  text-align: left;
+}
+
+.book-info h2 {
+  font-size: 1.5em;
+  margin-top: 0.5em;
+  text-align: left;
+  padding-bottom: 0;
+}
+
+.book-description {
+  font-size: 1.2em;
+  line-height: 1.6;
+  margin: 1.5em 0;
+}
+
+.book-cta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1em;
+  margin-top: 2em;
+}
+
+.book-cta a {
+  padding: 0.8em 1.5em;
+  font-size: 1.1em;
+  font-weight: bold;
+  text-transform: uppercase;
+  border-radius: 4px;
+  text-decoration: none;
+  transition: all 0.3s ease;
+}
+
+.book-cta .cta-primary {
+  background-color: #3498db;
+  color: white;
+}
+
+.book-cta .cta-primary:hover {
+  background-color: #2980b9;
+}
+
+.book-cta .cta-secondary {
+  background-color: #f39c12;
+  color: white;
+}
+
+.book-cta .cta-secondary:hover {
+  background-color: #e67e22;
+}
+
+/* Secondary book images */
+.book-gallery {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 2em;
+  margin: 3em 0;
+}
+
+.book-gallery-item {
+  flex: 0 0 calc(33.33% - 2em);
+  max-width: calc(33.33% - 2em);
+}
+
+.book-gallery-item img {
+  width: 100%;
+  height: auto;
+  border-radius: 5px;
+  box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+  transition: transform 0.3s ease;
+}
+
+.book-gallery-item img:hover {
+  transform: scale(1.05);
+}
+
+/* Mobile responsiveness */
+@media (max-width: 768px) {
+  .book-hero {
+    flex-direction: column;
+    padding: 1.5em;
+  }
+  
+  .book-cover, .book-info {
+    flex: 0 0 100%;
+  }
+  
+  .book-info {
+    padding-left: 0;
+    margin-top: 2em;
+  }
+  
+  .book-info h1, .book-info h2 {
+    text-align: center;
+  }
+  
+  .book-cta {
+    justify-content: center;
+  }
+  
+  .book-gallery-item {
+    flex: 0 0 100%;
+    max-width: 100%;
+    margin-bottom: 1.5em;
+  }
+}
+
+.testimonial-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin-top: 2em;
+}
+
+.testimonial-item {
+  flex-basis: 48%;
+  background-color: #f9f9f9;
+  padding: 1.5em;
+  margin-bottom: 2em;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+}
+
+.testimonial-item p {
+  margin-bottom: 0.8em;
+  line-height: 1.5;
+}
+
+.testimonial-item p:first-of-type {
+  margin-top: 0;
+}
+
+.testimonial-item h4 {
+  margin-top: 1em;
+  margin-bottom: 0.25em;
+  font-size: 1.2em;
+}
+
+.testimonial-item h4 a {
+  color: #0077b5;
+  margin-left: 0.5em;
+  text-decoration: none;
+}
+
+.testimonial-item h4 a:hover {
+  color: #005983;
+}
+
+.testimonial-item p.position {
+  color: #666;
+  margin-top: 0;
+  font-size: 0.9em;
+  font-style: italic;
+}
+
+.author-item {
+  display: flex;
+  margin-bottom: 2.5em;
+  padding-bottom: 1.5em;
+  border-bottom: 1px solid #eaeaea;
+}
+
+.author-item img {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  margin-right: 1.5em;
+  object-fit: cover;
+}
+
+.author-item h3 {
+  margin-top: 0;
+  margin-bottom: 0.5em;
+}
+
+.company-logos {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+.company-logo-item {
+  text-align: center;
+}
+
+.company-logo-item img {
+  max-width: 80px;
+  height: auto;
+  display: block;
+  margin: 0 auto 0.5rem;
+}
+
+.btn--primary, 
+.btn--info, 
+.btn--warning, 
+.btn--success, 
+.btn--light {
+  padding: 0.75em 1.5em;
+  font-weight: bold;
+  font-size: 1em;
+  margin: 0.5em;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.two-column {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.two-column > div {
+  flex-basis: 48%;
+}
+
+.fullwidth {
+  flex-basis: 100% !important;
+  margin-top: 1.5em;
+}
+
+.embed-responsive-16by9 {
+  margin: 2em 0;
+}
+
+/* Enhanced author image styling */
+.author-image {
+  width: 160px;
+  height: 160px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-right: 2em;
+  border: 3px solid #f0f0f0;
+  box-shadow: 0 3px 10px rgba(0,0,0,0.1);
+  flex-shrink: 0;
+  display: block;
+}
+
+.author-item {
+  display: flex;
+  margin-bottom: 3em;
+  padding-bottom: 2em;
+  border-bottom: 1px solid #eaeaea;
+  align-items: flex-start;
+}
+
+.author-item > div {
+  flex: 1;
+}
+
+.author-item h3 {
+  margin-top: 0;
+  margin-bottom: 0.5em;
+  color: #333;
+}
+
+.author-item p {
+  margin-bottom: 1em;
+  line-height: 1.6;
+}
+
+.author-item a {
+  text-decoration: none;
+  color: #3498db;
+  font-weight: bold;
+}
+
+.author-item a:hover {
+  text-decoration: underline;
+  color: #2980b9;
+}
+
+/* Foreword styling */
+.foreword-content {
+  margin: 0 auto;
+  max-width: 900px;
+  padding: 1em;
+  background-color: #f9f9f9;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+}
+
+.foreword-text {
+  font-size: 1.1em;
+  line-height: 1.8;
+  color: #333;
+}
+
+.foreword-text p {
+  margin-bottom: 1.2em;
+}
+
+.foreword-author {
+  display: flex;
+  align-items: center;
+  margin-top: 2em;
+  padding-top: 1em;
+  border-top: 1px solid #eaeaea;
+}
+
+.foreword-author-image {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-right: 1.5em;
+  border: 3px solid #f0f0f0;
+  box-shadow: 0 3px 10px rgba(0,0,0,0.1);
+}
+
+.foreword-author-info {
+  flex: 1;
+}
+
+.foreword-author-info p {
+  margin: 0.2em 0;
+  text-align: left;
+}
+
+@media (max-width: 768px) {
+  .foreword-author {
+    flex-direction: column;
+    text-align: center;
+  }
+  
+  .foreword-author-image {
+    margin: 0 auto 1em auto;
+  }
+  
+  .foreword-author-info p {
+    text-align: center;
+  }
+}
+
+.foreword-author a {
+  color: #0077b5;
+  text-decoration: none;
+}
+
+.foreword-author a:hover {
+  text-decoration: underline;
+}
+</style>
+
+<!-- Book Hero Section -->
+<div class="book-hero">
+  <div class="book-cover">
+    <img src="/images/book/book_img.jpeg" alt="System Design on AWS Book Cover">
+  </div>
+  <div class="book-info">
+    <h1>System Design on AWS</h1>
+    <h2>Building and Scaling Enterprise Solutions</h2>
+    <div class="book-description">
+      <p>The ultimate guide to designing, implementing, understanding, building, and scaling complex systems on AWS. Go from "it works on my laptop" to "it scales under load." This is the book we wish we had when we were figuring things out.</p>
+      <p>Through detailed chapters, this book demystifies AWS's wide-ranging services and how they can be strategically leveraged to address both technical and business requirements.</p>
+    </div>
+    <div class="book-cta">
+      <a href="https://oreil.ly/ruQbc" class="cta-primary" target="_blank">Read on O'Reilly</a>
+      <a href="https://amzn.to/3D3BIBJ" class="cta-secondary" target="_blank">Buy on Amazon</a>
+    </div>
+  </div>
+</div>
+
+<!-- Book Gallery Section -->
+<div class="book-gallery">
+  <!-- <div class="book-gallery-item">
+    <img src="/images/book/book cover images/book-cover-image.png" alt="System Design on AWS Book - Front Cover">
+  </div> -->
+  <div class="book-gallery-item">
+    <img src="/images/book/book cover images/book-front-1.webp" alt="System Design on AWS Book - Side View">
+  </div>
+  <div class="book-gallery-item">
+    <img src="/images/book/book cover images/book-front-2.webp" alt="System Design on AWS Book - Collection">
+  </div>
+  <div class="book-gallery-item">
+    <img src="/images/book/book cover images/all-the-books.jpg" alt="System Design on AWS Book - Side View">
+  </div>
+</div>
+
+<!-- Who Should Read This Book -->
+<div class="feature__wrapper">
+    <h2>💡 Who Should Read This Book?</h2>
+    <div class="archive__item-excerpt">
+      <p>This book is ideal for:</p>
+      <ul>
+        <li>Software architects, developers, DevOps engineers, and system architects who want to build or scale applications on AWS.</li>
+        <li>Professionals transitioning from on-premises to cloud infrastructure or aiming to leverage AWS for large-scale applications.</li>
+        <li>Developers tired of "vibe coding" and wanting to build for scale.</li>
+        <li>Founders seeking technical leverage.</li>
+        <li>Engineers aiming for senior/staff-level interviews.</li>
+        <li>Anyone building on AWS who wants to *actually* understand how the pieces fit together.</li>
+        <li>People holding leadership positions in software development and DevOps, helping you remove team blockers and make informed decisions.</li>
+        <li>Anyone who loves to build systems on any cloud platform or on-premises, or is just curious about building systems (the design principles are cloud-agnostic).</li>
+      </ul>
+      <p><em>A basic understanding of software implementation and familiarity with one programming language are recommended.</em></p>
+      <h4>What This Book Isn't:</h4>
+      <p>This book does not provide detailed code implementations for deploying infrastructure or application business logic. Instead, it emphasizes the architecture and design process, helping you understand how to break a system down into manageable components and make informed architectural decisions.</p>
+    </div>
+  </div>
+
+<!-- What's Inside -->
+<div class="feature__wrapper">
+    <h2>🛠️ What's Inside? (600+ Pages of Pure Value)</h2>
+    <div class="two-column">
+      <div>
+        <h3>Part I - System Design Basics</h3>
+        <ul>
+          <li>Building blocks of scalable systems</li>
+          <li>Storage, SQL, NoSQL Databases</li>
+          <li>Caching, Rate Limiting, Load Balancing</li>
+          <li>Communication Network and Protocols</li>
+          <li>Containerization</li>
+          <li>Architectural Design Patterns</li>
+        </ul>
+      </div>
+      <div>
+        <h3>Part II - Deep Dive into AWS Services</h3>
+        <ul>
+          <li>VPC, Subnets, Route53, ELB, CloudFront</li>
+          <li>S3, EBS, EFS, DynamoDB, RDS, Aurora</li>
+          <li>EC2, Lambda, ECS, EKS</li>
+          <li>SQS, SNS, Step Functions, EventBridge, CloudWatch</li>
+          <li>EMR, Glue, Athena, SageMaker… and many more</li>
+          <li>How they fit together to build robust systems</li>
+        </ul>
+      </div>
+      <div class="fullwidth">
+        <h3>Part III - Real-World System Design Use Cases</h3>
+        <p>Each chapter is a complete walkthrough of building a real system on AWS:</p>
+        <ul>
+          <li>URL Shortener System</li>
+          <li>Web crawler and Search Engine</li>
+          <li>Real time Chat Application</li>
+          <li>Social Media Platform</li>
+          <li>Online Game Leaderboard</li>
+          <li>Hotel Reservation System</li>
+          <li>Media Transcoding System</li>
+          <li>Stock Broker</li>
+        </ul>
+        <h3>🧱 The Book Covers:</h3>
+        <ul>
+          <li>Foundational system design principles (databases, queues, retries, sharding, caching, containerization, etc.)</li>
+          <li>Deep dives into 30+ AWS services — not just theory, but how they work *together*</li>
+          <li>Real-world architectures: messaging application, stock brokers, game leaderboards, social media platform, hotel reservation system and more</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  
+
+<!-- Foreword -->
+<div class="feature__wrapper">
+    <h2>Foreword</h2>
+    <div class="foreword-content">
+      <div class="foreword-text">
+        <p>Systems design is one of the most important aspects of building apps that are scalable, available, performant, and secure, even when your usage increases by an order of magnitude or two. That's why I found the topic of this book to be so important. I like that this book starts with covering the basics of trade-offs in distributed systems, such as the CAP theorem, units of blast radius, and other common trade-offs in systems design, and then moves to how to apply these principles in practice.</p>
+        
+        <p>I found this approach—going from core principles to actually putting them into practice on critical design decisions (such as "What is the best database for running my workload?" and "What's the best caching strategy for my workloads?" and "Which storage service should I choose?")—to be especially helpful as it teaches people how to think about these problems even as new capabilities from AWS emerge, making the concepts in this book more durable.</p>
+        
+        <p>Personally, reading this book reminded me so much of the early days of AWS, when we spent a lot of time discussing these trade-offs. At that time, concepts like CAP theorem, blast radius, and seamless scalability were not well understood, and we had robust discussions around these topics and the inherent trade-offs they come with. However, those discussions led to some incredibly robust AWS services, such as S3, DynamoDB, and many others that millions of AWS customers love. I hope the you grasp these concepts and are inspired to build similarly amazing products and services that delight their customers.</p>
+        
+        <p>Congratulations to the authors for writing such an excellent book, and best of luck to all who embark on this journey!</p>
+        
+        <div class="foreword-author">
+          <img src="/images/swami.jpeg" alt="Swami Sivasubramanian" class="foreword-author-image">
+          <div class="foreword-author-info">
+            <p><strong>Swami Sivasubramanian</strong></p>
+            <p>Vice President, AI and Data at AWS</p>
+            <p><a href="https://www.linkedin.com/in/swaminathansivasubramanian/" target="_blank"><i class="fab fa-linkedin"></i> LinkedIn</a></p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+
+<!-- Read by professionals at -->
+<div class="feature__wrapper">
+  <h2>Read by Professionals At</h2>
+  <div class="company-logos">
+    <!-- Amazon -->
+    <div class="company-logo-item">
+      <img
+        src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg"
+        alt="Amazon logo"
+      />
+      <p>Amazon</p>
+    </div>
+  
+    <!-- Google -->
+    <div class="company-logo-item">
+      <img
+        src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg"
+        alt="Google logo"
+      />
+      <p>Google</p>
+    </div>
+  
+    <!-- Microsoft -->
+    <div class="company-logo-item">
+      <img
+        src="https://upload.wikimedia.org/wikipedia/commons/9/96/Microsoft_logo_%282012%29.svg"
+        alt="Microsoft logo"
+      />
+      <p>Microsoft</p>
+    </div>
+  
+    <!-- Meta -->
+    <div class="company-logo-item">
+      <img
+        src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Meta_Platforms_Inc._logo.svg"
+        alt="Meta logo"
+      />
+      <p>Meta</p>
+    </div>
+  
+    <!-- Lyft -->
+    <div class="company-logo-item">
+      <img
+        src="https://upload.wikimedia.org/wikipedia/commons/a/a0/Lyft_logo.svg"
+        alt="Lyft logo"
+      />
+      <p>Lyft</p>
+    </div>
+  
+    <!-- Netflix -->
+    <div class="company-logo-item">
+      <img
+        src="https://upload.wikimedia.org/wikipedia/commons/0/08/Netflix_2015_logo.svg"
+        alt="Netflix logo"
+      />
+      <p>Netflix</p>
+    </div>
+  
+    <!-- Airbnb -->
+    <div class="company-logo-item">
+      <img
+        src="https://upload.wikimedia.org/wikipedia/commons/6/69/Airbnb_Logo_Bélo.svg"
+        alt="Airbnb logo"
+      />
+      <p>Airbnb</p>
+    </div>
+  
+    <!-- LinkedIn -->
+    <div class="company-logo-item">
+      <img
+        src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg"
+        alt="LinkedIn logo"
+      />
+      <p>LinkedIn</p>
+    </div>
+  </div>
+</div>
+
+
+<!-- What the experts say -->
+<div class="feature__wrapper">
+  <h2>What the Experts Say</h2>
+  <div class="testimonial-wrapper">
+
+    <div class="testimonial-item">
+    <p>"A must-read for anyone building on AWS—this book bridges system design fundamentals with AWS architecture, providing invaluable insights to elevate your skills and optimize your designs."</p>
+    <h4>Harshit Bangar <a href="https://www.linkedin.com/in/harshitbangar" target="_blank"><i class="fab fa-linkedin"></i></a></h4>
+    <p class="position">Software Engineer, Google</p>
+    </div>
+
+
+    <div class="testimonial-item">
+        <p>
+        "Finally, a practical guide to service-oriented architecture on AWS! Every mid-to-senior engineer needs this book in their toolkit."
+        </p>
+        <h4>Rakesh Kumar <a href="https://www.linkedin.com/in/rakeshkumar1007/" target="_blank"><i class="fab fa-linkedin"></i></a></h4>
+        <p class="position">Senior Staff Engineer, Lyft</p>
+    </div>
+
+    <!-- Testimonial 1 -->
+    <div class="testimonial-item">
+        <p>"Just received my copy of Mandeep's book -- System Design on AWS 🚀🔥</p>
+        <p>I went through the content and it has some amazing reads on not just AWS services but how to actually implement various designs practically!!</p>
+        <p>One particular thing I am looking forward to is Networking strategies -- always a big myth for me 😂</p>
+        <p>It also has 8 practical system designs, from building a Video Processing Pipeline to an Online Stock Trading Application!! 🚀</p>
+        <p>Gonna read this coming weekend! Will post the review as I go along!🔥 Thanks Mandeep Singh Shekhawat for the book!"</p>
+        <h4>Shrey Batra <a href="https://www.linkedin.com/in/shreybatra" target="_blank"><i class="fab fa-linkedin"></i></a></h4>
+        <p class="position">CEO, Cosmocloud</p>
+      </div>
+    
+    <!-- Testimonial 2 -->
+    <div class="testimonial-item">
+      <p><strong>A Must Have Book For Any Engineer</strong></p>
+      <p>"I have worked on AWS Glue and Athena before so thought to check the corresponding chapters and i must say these have been written in a language which beginners can comprehend easily. I would highly suggest this book for any one who wants to understand how and when to use cloud technologies. This book also provides real life system design problems so this book doesnot only teach you AWS services in depth but also how can you apply these in real world."</p>
+      <h4>Mohit Chandra <a href="https://www.linkedin.com/in/chandrmt/" target="_blank"><i class="fab fa-linkedin"></i></a></h4>
+      <p class="position">Senior Software Engineer, Microsoft</p>
+    </div>
+    
+    <!-- Testimonial 3 -->
+    <div class="testimonial-item">
+      <p>"I just finished reading System Design on AWS. I found it super practical and comprehensive. It is an excellent book not only for starters but for experienced professionals. Thank you for contributing such a meaningful resource to the community."</p>
+      <h4>Poonam Chhabra <a href="https://www.linkedin.com/in/poonam-chhabra/" target="_blank"><i class="fab fa-linkedin"></i></a></h4>
+      <p class="position">Vice President, Bank of America</p>
+    </div>
+    
+    <!-- Testimonial 4 -->
+    <div class="testimonial-item">
+      <p>"I am reading this book on O'Reilly, and I love those eight or so real system design use cases. Each one is well-detailed, with plenty of discussion. The great thing is that the architectural choices balance both container-based options and serverless. Kudos to the authors! 👏"</p>
+      <h4>Sheen Brisals <a href="https://www.linkedin.com/in/sheen-brisals/" target="_blank"><i class="fab fa-linkedin"></i></a></h4>
+      <p class="position">AWS Serverless Hero</p>
+    </div>
+
+    <!-- Testimonial 5 -->
+    <div class="testimonial-item">
+        <p><strong>The most thorough handbook on system design and scaling at all levels - MVP to widely successful</strong></p>
+        <p>"With all the AI innovations in coding assistance today, people are seriously underestimating the value of sound fundamentals! AI can help you build components or maybe even a workable MVP. But, you still need to get the foundations right to have any chance of building a real, revenue making, and sustainable business. This book did an amazing job at discussing the foundations in a practical setting - I thoroughly enjoyed the practical examples that keep it more connected to real world applications. And the use of Day 0, Scaling and Day N architectures clearly highlight how practical production systems evolve. The authors cleverly avoided the common pitfall of recommending over engineered system design / architectures. Most other technical books tend to miss the mark in the hunt for deep theoretical rigour, this one hits that spot perfectly!</p>
+        <p>10/10 - cannot recommend this enough! Let AI write your code, but get your foundations right here!"</p>
+        <h4>Praveen Kumar <a href="https://www.linkedin.com/in/pkpio/" target="_blank"><i class="fab fa-linkedin"></i></a></h4>
+        <p class="position">Founder of Transcript LOL</p>
+      </div>
+
+    <!-- Testimonial 6 -->
+    <div class="testimonial-item">
+      <p>"I recently started exploring "System Design on AWS: Building and Scaling Enterprise Solutions," co-authored by Jayanth Kumar and Mandeep Singh—and it's been a great read so far!</p>
+      <p>What grabbed my attention right away was how clearly the book connects foundational concepts with real-world scenarios. It covers practical topics that anyone building scalable systems needs to know: from smart caching strategies and choosing the right type of database (relational vs. non-relational) to effectively balancing traffic and ensuring system reliability and availability.</p>
+      <p>Given how quickly technology is evolving today, the insights from this book are incredibly timely. With cloud technologies becoming the backbone of almost every digital product, understanding robust system design has never been more critical—especially if you're building AI-driven solutions. No matter what AI-driven project you're tackling, having a solid grasp of these system design principles ensures your solution can scale efficiently, perform reliably, and meet user expectations.</p>
+      <p>Jayanth Kumar's extensive experience and clear explanations simplify complex topics, making the content highly approachable and valuable.</p>
+      <p>Whether you're a student, engineer, or someone passionate about cloud and systems architecture, there's plenty to learn and apply here."</p>
+      <h4>Prem Kumar Gupta <a href="https://www.linkedin.com/in/prem-kumar-gupta/" target="_blank"><i class="fab fa-linkedin"></i></a></h4>
+      <p class="position">Data Engineer, Turl Street Group</p>
+    </div>
+  </div>
+</div>
+
+<!-- Add Font Awesome for LinkedIn icons -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+
+<!-- About the authors -->
+<div class="feature__wrapper">
+  <h2>About the Authors</h2>
+  <!-- Author 1 -->
+  <div class="author-item">
+    <img src="/images/FaceShot.png" alt="Jayanth Kumar" class="author-image">
+    <div>
+      <h3>Jayanth Kumar</h3>
+      <p>Jayanth Kumar is a published poet, a technical architect (AWS Solutions Architect Professional), an entrepreneur, an engineering leader and an assistant professor too. He earned his bachelor's degree from IIT Bombay and his master's degree from UCLA in Computer Science departments. He formerly held positions at SAP Germany and SAP Silicon Valley. Later, as an entrepreneur, he held leadership roles including Head of Engineering at Goodhealth, Engineering Manager at Delhivery, and Software Development Manager at Amazon. These challenging experiences made him grow not just into Technology but also into People, Processes and Product leadership. He always seeks new learning opportunities and focuses on building robust mechanisms and systems.</p>
+      <p><a href="https://www.linkedin.com/in/jaykmr" target="_blank">LinkedIn</a> | <a href="https://blog.jaykmr.com/" target="_blank">Personal Blog</a></p>
+    </div>
+  </div>
+  
+  <!-- Author 2 -->
+  <div class="author-item">
+    <img src="/images/mandeep.jpg" alt="Mandeep Singh" class="author-image">
+    <div>
+      <h3>Mandeep Singh</h3>
+      <p>Mandeep Singh is an educator and software engineer with a strong passion for building simple, scalable systems. A graduate from the Army Institute of Technology, he has held various engineering roles at Amazon, Jupiter, and Kyndryl. His experience spans multiple domains, including cloud infrastructure modernization, ecommerce logistics and compliance, and payment systems. He supports the learning and development of others by sharing lessons on Cloud and System Design on his YouTube channel and LinkedIn. Outside of work, he enjoys morning runs, weight lifting, cooking, and spending time with his family.</p>
+      <p><a href="https://www.linkedin.com/in/msdeep14/" target="_blank">LinkedIn</a> | <a href="https://www.youtube.com/@MsDeepSingh" target="_blank">YouTube</a></p>
+    </div>
+  </div>
+</div>
+
+<!-- Videos -->
+<div class="feature__wrapper">
+  <h2>Videos</h2>
+  <div class="archive__item-excerpt" style="text-align: center;">
+    <p>Companion System Design videos on YouTube:</p>
+    <a href="https://www.youtube.com/@MsDeepSingh" class="btn btn--info" target="_blank">View on YouTube</a>
+    <div class="embed-responsive embed-responsive-16by9">
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/7gs8rOfI5Jg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+  </div>
+</div>
+
+<!-- Get the book -->
+<div class="feature__wrapper">
+  <h2>📚 Get the Book</h2>
+  <div class="archive__item-excerpt" style="text-align: center;">
+    <p>The book is now live! Get it on:</p>
+    <a href="https://oreil.ly/ruQbc" class="btn btn--primary" target="_blank">O'Reilly</a>
+    <a href="https://www.google.co.in/books/edition/System_Design_on_AWS/xcZGEQAAQBAJ" class="btn btn--primary" target="_blank">Google Books</a>
+    <a href="https://www.shroffpublishers.com/books/9789355428035/" class="btn btn--info" target="_blank">Shroff Publishers (SEA)</a>
+    <a href="https://amzn.to/3D3BIBJ" class="btn btn--info" target="_blank">Amazon.com</a>
+    <a href="https://amzn.to/3QW6Fvf" class="btn btn--warning" target="_blank">Amazon.co.uk</a>
+    <a href="https://amzn.to/4klW7my" class="btn btn--warning" target="_blank">Amazon.in</a>
+    <br><br>
+    <a href="https://www.dragonflydb.io/content/aws-system-design" class="btn btn--success" target="_blank">Read Two Free Chapters (DragonflyDB)</a>
+    <br><br>
+    <p><strong>🎁 Bonus:</strong> Join Live Discussions on Discord:</p>
+    <a href="https://discord.gg/98zTnzvGz2" class="btn btn--info" target="_blank">Join Discord</a>
+  </div>
+</div>
+
+<!-- Get the book in your language -->
+<div class="feature__wrapper">
+  <h2>🌍 Get the Book in Your Language</h2>
+  <div class="archive__item-excerpt" style="text-align: center;">
+    <a href="https://learning.oreilly.com/library/view/system-design-on/9781098146887/" class="btn btn--light" target="_blank">🇬🇧 English</a>
+    <a href="https://learning.oreilly.com/library/view/awsshang-nosisutemushe-ji/9798341634060/" class="btn btn--light" target="_blank">🇯🇵 Japanese</a>
+    <a href="https://learning.oreilly.com/library/view/diseno-de-sistemas/9798341629967/" class="btn btn--light" target="_blank">🇪🇸 Spanish</a>
+    <a href="https://learning.oreilly.com/library/view/design-de-sistemas/9798341637832/" class="btn btn--light" target="_blank">🇵🇹 Portuguese</a>
+    <a href="https://learning.oreilly.com/library/view/conception-de-systemes/9798341631625/" class="btn btn--light" target="_blank">🇫🇷 French</a>
+    <a href="https://learning.oreilly.com/library/view/progettazione-di-sistemi/9798341639331/" class="btn btn--light" target="_blank">🇮🇹 Italian</a>
+    <a href="https://learning.oreilly.com/library/view/systemdesign-auf-aws/9798341628786/" class="btn btn--light" target="_blank">🇩🇪 German</a>
+  </div>
+</div>
+
+<!-- Support Us -->
+<div class="feature__wrapper">
+  <h2>Support Us</h2>
+  <div class="support-section">
+    <p class="support-text">If you found this book helpful, please consider supporting us by leaving a review, sharing it with colleagues, or recommending it on platforms like Product Hunt.</p>
+    
+    <div class="embed-container">
+      <!-- Product Hunt Badge -->
+      <div class="embed-item">
+        <a href="https://www.producthunt.com/posts/system-design-on-aws?embed=true&utm_source=badge-featured&utm_medium=badge&utm_souce=badge-system&#0045;design&#0045;on&#0045;aws" target="_blank">
+          <img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=941350&theme=light&t=1745747325712" alt="System&#0032;Design&#0032;on&#0032;AWS - Learn&#0032;to&#0032;build&#0032;and&#0032;scale&#0032;enterprise&#0032;solutions | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" />
+        </a>
+      </div>
+      
+      <!-- Product Hunt Card -->
+      <div class="embed-item">
+        <iframe style="border: none;" src="https://cards.producthunt.com/cards/posts/941350?v=1" width="500" height="405" frameborder="0" scrolling="no" allowfullscreen></iframe>
+      </div>
+    </div>
+  </div>
+</div>
+
+<style>
+.support-section {
+  text-align: center;
+  margin: 2em auto;
+  max-width: 1200px;
+}
+
+.support-text {
+  font-size: 1.2em;
+  margin-bottom: 2em;
+  line-height: 1.6;
+}
+
+.embed-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 2em;
+  margin-top: 2em;
+}
+
+.embed-item {
+  margin-bottom: 2em;
+}
+
+/* Amazon button styling */
+.amazon-item {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.amazon-button {
+  display: flex;
+  align-items: center;
+  background-color: #FF9900;
+  color: #000;
+  padding: 10px 20px;
+  border-radius: 4px;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 1.1em;
+  transition: background-color 0.3s ease;
+}
+
+.amazon-button:hover {
+  background-color: #FF8C00;
+}
+
+.amazon-logo {
+  width: 25px;
+  height: 25px;
+  margin-right: 10px;
+  background-position: -5px -130px;
+  object-fit: none;
+  object-position: -5px -130px;
+}
+
+@media (max-width: 768px) {
+  .embed-container {
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .embed-item iframe {
+    max-width: 100%;
+    height: auto;
+  }
+}
+</style>

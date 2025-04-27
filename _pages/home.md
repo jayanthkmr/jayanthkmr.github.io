@@ -19,7 +19,7 @@ I earned my bachelor's degree from [IIT Bombay](https://en.wikipedia.org/wiki/II
 
 I always seek to challenge myself with new learning opportunities and focus on building robust mechanisms and systems, which will stand the test of the time.
 
-Subscribe to my website to read my book *Learning System Design on AWS* or *System Manifesto* or read my poetry anthology - "*Gonzo Poet and through his lens*" or follow my blog - "*Technopreneurial Treatises*" for more engineering and entrepreneurial philosophical content. 
+Subscribe to my website to read my book [*System Design on AWS*](https://jaykmr.com/aws-book/) or [*System Manifesto*](https://jaykmr.com/system-manifesto/) or read my poetry anthology - [*Gonzo Poet and through his lens*](https://jaykmr.com/poetry-book/) or follow my blog - [*Technopreneurial Treatises*](https://blog.jaykmr.com/) for more engineering and entrepreneurial philosophical content. 
 
 You can book a 1:1 call or ask any queries you may have on my [email](mailto:jayanthjaiswal15@gmail.com). Whether you need help with my areas of expertise or just want to chat about anything, I'm available.
 
