@@ -4,6 +4,59 @@ I think I've got things running smoothly and fixed some major bugs, but feel fre
 
 ### Note: if you are using this repo and now get a notification about a security vulnerability, delete the Gemfile.lock file. 
 
+# Personal Academic Website
+
+This is my personal academic website, built using the [Academic Pages](https://github.com/academicpages/academicpages.github.io) template.
+
+## Features
+
+- 📝 Blog posts and academic writing
+- 📚 Publications listing
+- 🎓 Teaching experience
+- 💼 Portfolio projects
+- 🎓 Talks with interactive map
+- 📜 Patents showcase
+- 📖 Personal manifesto
+- 📊 Medium posts integration
+
+## Local Development
+
+You can run this site locally in two ways:
+
+### Using Docker (Recommended)
+
+1. Install Docker and Docker Compose
+2. Run `docker compose up`
+3. Visit http://localhost:4000
+
+### Manual Setup
+
+1. Run the bootstrap script:
+   ```bash
+   chmod +x scripts/bootstrap.sh
+   ./scripts/bootstrap.sh
+   ```
+2. Start the local server:
+   ```bash
+   bundle exec jekyll serve -l -H localhost
+   ```
+3. Visit http://localhost:4000
+
+## Adding Content
+
+- **Blog Posts**: Add markdown files to `_posts/`
+- **Publications**: Add markdown files to `_publications/`
+- **Talks**: Add markdown files to `_talks/` (include latitude/longitude for map)
+- **Teaching**: Add markdown files to `_teaching/`
+- **Portfolio**: Add markdown files to `_portfolio/`
+- **Patents**: Add markdown files to `_patents/`
+- **Manifesto**: Add markdown files to `_manifesto/`
+- **Medium Posts**: Add markdown files to `_medium_posts/`
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 # Instructions
 
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
@@ -15,14 +68,6 @@ I think I've got things running smoothly and fixed some major bugs, but feel fre
 1. (Optional) Use the Jupyter notebooks or python scripts in the `markdown_generator` folder to generate markdown files for publications and talks from a TSV file.
 
 See more info at https://academicpages.github.io/
-
-## To run locally (not on GitHub Pages, to serve on your own computer)
-
-1. Clone the repository and made updates as detailed above
-1. Make sure you have ruby-dev, bundler, and nodejs installed: `sudo apt install ruby-dev ruby-bundler nodejs`
-1. Run `bundle clean` to clean up the directory (no need to run `--force`)
-1. Run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
-1. Run `bundle exec jekyll liveserve` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change.
 
 # Changelog -- bugfixes and enhancements
 
