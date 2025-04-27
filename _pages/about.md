@@ -11,7 +11,7 @@ Welcome to my website.
 
 Let me introduce myself.
 
-I am [Jayanth Kumar](https://linktr.ee/jaykmr?source=about_page "https://linktr.ee/jaykmr"), currently building large scale software systems as SDM III at Amazon, being one of the youngest Engineering Leader in a [FAANG](https://www.investopedia.com/terms/f/faang-stocks.asp?source=about_page "https://www.investopedia.com/terms/f/faang-stocks.asp") .
+I am [Jayanth Kumar](https://jaykmr.com?source=about_page "https://jaykmr.com"), currently building best in class intelligence solutions for real estate and capital markets stakeholders at [Turl Street Group](https://turlstreetgroup.com?source=about_page "https://turlstreetgroup.com/").
 
 I am an [INTJ-A (the Architect)](https://www.16personalities.com/intj-personality?source=about_page "https://www.16personalities.com/intj-personality")  [millenial](https://en.wikipedia.org/wiki/Millennials?source=about_page "https://en.wikipedia.org/wiki/Millennials")  [polymath](https://en.wikipedia.org/wiki/Polymath?source=about_page "https://en.wikipedia.org/wiki/Polymath") - a published poet, a technical architect, an entrepreneur, an engineering leader and an assistant professor too.
 

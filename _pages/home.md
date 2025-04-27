@@ -15,7 +15,7 @@ I am <a href="https://jaykmr.com">Jayanth Kumar</a>
 
 Currently building best in class intelligence solutions for real estate and capital markets stakeholders at [Turl Street Group](https://turlstreetgroup.com/ "https://turlstreetgroup.com/"). I am a published poet, a technical architect, an entrepreneur, an angel investor, an engineering leader and even, an assistant professor too, basically a Polymath. 
 
-I earned my bachelor’s degree from [IIT Bombay](https://en.wikipedia.org/wiki/IIT_Bombay?source=about_page "https://en.wikipedia.org/wiki/IIT_Bombay") and my master’s degree from [University of California Los Angeles](https://en.wikipedia.org/wiki/University_of_California,_Los_Angeles?source=about_page "https://en.wikipedia.org/wiki/University_of_California,_Los_Angeles")  in Computer Science departments. I formerly held the positions of software engineer at [SAP SE, Germany](https://en.wikipedia.org/wiki/SAP?source=about_page "https://en.wikipedia.org/wiki/SAP") and [SAP Labs, Silicon Valley](https://en.wikipedia.org/wiki/SAP?source=about_page "https://en.wikipedia.org/wiki/SAP?source=about_page"). Later, as an entrepreneur, I held the positions of Head of Engineering at [Goodhealthapp](https://www.crunchbase.com/organization/goodhealth-dde4?source=about_page "https://www.crunchbase.com/organization/goodhealth-dde4"), Engineering Manager at [Delhivery](https://en.wikipedia.org/wiki/Delhivery?source=about_page "https://en.wikipedia.org/wiki/Delhivery"), and later as Software Development Manager at [Amazon India](https://en.wikipedia.org/wiki/Amazon_(company)?source=about_page "https://en.wikipedia.org/wiki/Amazon_(company)"), as one of the youngest Engineering Leader in a FAANG. These challenging experiences made me grow not just into Technology but also, into People, Processes and Product leadership.
+I earned my bachelor's degree from [IIT Bombay](https://en.wikipedia.org/wiki/IIT_Bombay?source=about_page "https://en.wikipedia.org/wiki/IIT_Bombay") and my master's degree from [University of California Los Angeles](https://en.wikipedia.org/wiki/University_of_California,_Los_Angeles?source=about_page "https://en.wikipedia.org/wiki/University_of_California,_Los_Angeles")  in Computer Science departments. I formerly held the positions of software engineer at [SAP SE, Germany](https://en.wikipedia.org/wiki/SAP?source=about_page "https://en.wikipedia.org/wiki/SAP") and [SAP Labs, Silicon Valley](https://en.wikipedia.org/wiki/SAP?source=about_page "https://en.wikipedia.org/wiki/SAP?source=about_page"). Later, as an entrepreneur, I held the positions of Head of Engineering at [Goodhealthapp](https://www.crunchbase.com/organization/goodhealth-dde4?source=about_page "https://www.crunchbase.com/organization/goodhealth-dde4"), Engineering Manager at [Delhivery](https://en.wikipedia.org/wiki/Delhivery?source=about_page "https://en.wikipedia.org/wiki/Delhivery"), and later as Software Development Manager at [Amazon India](https://en.wikipedia.org/wiki/Amazon_(company)?source=about_page "https://en.wikipedia.org/wiki/Amazon_(company)"), as one of the youngest Engineering Leader in a FAANG. These challenging experiences made me grow not just into Technology but also, into People, Processes and Product leadership.
 
 I always seek to challenge myself with new learning opportunities and focus on building robust mechanisms and systems, which will stand the test of the time.
 
@@ -51,14 +51,18 @@ See you around 🎩
 <hr width="50%" />
 
 ## Updates
-- 📈 Secured a score of 86.77 (98.26 percentile) in [CAT 2024](https://en.wikipedia.org/wiki/Common_Admission_Test?source=about_page "https://en.wikipedia.org/wiki/Common_Admission_Test") held in November and received interview calls from [IIM Ahmedabad](https://en.wikipedia.org/wiki/Indian_Institute_of_Management_Ahmedabad?source=about_page "https://en.wikipedia.org/wiki/Indian_Institute_of_Management_Ahmedabad") and [IIM Bangalore](https://en.wikipedia.org/wiki/Indian_Institute_of_Management_Bangalore?source=about_page "https://en.wikipedia.org/wiki/Indian_Institute_of_Management_Bangalore") 🎉
+- 🛠️ Launched the beta of [*Gathergov*](https://gathergov.com) in January 2025 — [Turl Street Group](https://turlstreetgroup.com)'s first product serving real estate and capital markets stakeholders.
+- 🎉 Received admission to the Post Graduate Programme (PGP) at [*IIM Bangalore*](https://en.wikipedia.org/wiki/Indian_Institute_of_Management_Bangalore?source=about_page "https://en.wikipedia.org/wiki/Indian_Institute_of_Management_Bangalore") (Class of 2025–27)!  
+- 🔨 Release of my book - [*System Design on AWS*](https://learning.oreilly.com/library/view/system-design-on/9781098146887/) on [Amazon](https://www.amazon.com/System-Design-AWS-Enterprise-Solutions/dp/1098146891) ✨ 📚
+- 📈 Secured a score of 86.77 (98.26 percentile) in [CAT 2024](https://en.wikipedia.org/wiki/Common_Admission_Test?source=about_page "https://en.wikipedia.org/wiki/Common_Admission_Test") held in November 2024 🎉
 - 🎓 Attended [IIT Bombay Class of 2014 Reunion](https://www.linkedin.com/posts/iit-bombay-alumni-association-iitbaa-a1a56723a_iitbaa-10yearreunion-classof2014-ugcPost-7267858901184724992-QAGF?utm_source=share&utm_medium=member_desktop) in November 2024, caught up with friends, and presented a copy of my book to the Dean and alumni 📖✨
 - 🚀 Joined [Turl Street Group](https://turlstreetgroup.com) as CTO in September 2024 to build best in class intelligence solutions for real estate and capital markets stakeholders 🌟
 - 🔨  Release of my poetry book - [Gonzo Poet and Through his Lens](https://www.amazon.com/Gonzo-Poet-through-his-lens/dp/1792911742/ref=tmm_pap_swatch_0) with illustrations on amazon.com as paperback edition ✨ 📚
-- 🔨 Pre-release of my book - [*Learning System Design on AWS*](https://learning.oreilly.com/library/view/learning-system-design/9781098146887/)✨ 📚
+
 
 
 <details markdown=1><summary markdown="span"><b>Click here for archived news</b></summary>
+
 * <sub> September 2024: I presented my oral presentation - [*ESMCrystal: Enhancing Protein Crystallization Prediction through Protein Embeddings*](https://easychair.org/publications/preprint/FTCX) in the [19th conference on
 Computational Intelligence methods for Bioinformatics and Biostatistics 2024](https://www.bioinformatics-sannio.org/cibb2024/), held at Benevento, Italy from September 4-6,2024 📝</sub>
 * <sub> July 2024: I presented my poster - [*Enhancing Protein Crystallization Prediction through Protein Embeddings*](https://iscb.junolive.co/ISMB24/live/exhibitor/ismb2024_poster_1399) in the [32nd International Conference on Intelligent Systems for Molecular Biology (ISMB) 2024](https://www.iscb.org/ismb2024/home), held at Montreal, Quebec, Canada from July 12-16,2024</sub>
@@ -76,70 +80,159 @@ Computational Intelligence methods for Bioinformatics and Biostatistics 2024](ht
 </details>
 
 ----------
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<style>
+.libutton {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 7px;
+  text-align: center;
+  outline: none;
+  text-decoration: none !important;
+  color: #ffffff !important;
+  width: 280px;
+  height: 32px;
+  border-radius: 16px;
+  background-color: #0A66C2;
+  font-family: "SF Pro Text", Helvetica, sans-serif;
+}
+</style>
+
+<a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=jaykmr" target="_blank">Follow on LinkedIn</a>
 ----------
-<a class="twitter-timeline" data-width="600" data-height="1000" data-dnt="true" data-theme="light" href="https://twitter.com/jayanth_kmr?ref_src=twsrc%5Etfw">Tweets by Jayanth Kumar</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8" ></script>
-<a href="https://twitter.com/jayanth_kmr?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="true">Follow @jayanth_kmr</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" href="https://twitter.com/jayanth_kmr?ref_src=twsrc%5Etfw">Tweets by jayanth_kmr</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a href="https://twitter.com/x?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @x</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 ----------
 
 <section id="main" class="wrapper style1">
-
   <header class="major">
-      <h2>Latest Blog Posts </h2>
+    <h2>Latest Blog Posts</h2>
   </header>
 
-{% for e in site.medium_posts %}
+  <div class="post-grid">
+    {% assign medium_feed = site.data.medium_feed %}
+    {% if medium_feed %}
+      {% for post in medium_feed limit:5 %}
+        <article class="post-card">
+          <h3 class="post-title">
+            <a href="{{ post.url }}" target="_blank" rel="noopener">{{ post.title }}</a>
+          </h3>
+          
+          <div class="post-meta">
+            {{ post.date | date: "%B %d, %Y" }}
+          </div>
 
-<div class="row">
-  <h3><a href="{{ e.link }}">{{ e.title }}</a></h3>
-  <p>{{e.excerpt}}
+          {% if post.description %}
+            <div class="post-excerpt">
+              {{ post.description | truncatewords: 30 }}
+            </div>
+          {% endif %}
 
-  <section class="special">
-  <a href="{{ e.link }}" style="color:black">Read More...</a>
-  </section>
-  Published on {{ e.date }}
-  </p>
-  {% endfor %}
-</div>
+          <a href="{{ post.url }}" class="read-more" target="_blank" rel="noopener">
+            Read More →
+          </a>
+        </article>
+      {% endfor %}
+    {% else %}
+      <div class="blog-link-container">
+        <a href="https://blog.jaykmr.com" class="blog-link" target="_blank" rel="noopener">
+          Visit My Blog →
+        </a>
+      </div>
+    {% endif %}
+  </div>
+</section>
 
-<!-- ---------- -->
+<style>
+.post-grid {
+  display: grid;
+  gap: 2rem;
+  margin: 2rem 0;
+}
 
-<!-- <section id="main" class="wrapper style1">
+.post-card {
+  background: #fff;
+  border: 1px solid #eee;
+  border-radius: 8px;
+  padding: 1.5rem;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
 
-  <header class="major">
-      <h2>Latest Blog Posts </h2>
-  </header>
-  
-<script type="text/javascript">
-const RSS_URL = "https://cors-anywhere.herokuapp.com/https://medium.com/feed/technopreneurial-treatises";
+.post-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
 
+.post-title {
+  margin: 0 0 0.5rem;
+  font-size: 1.4rem;
+}
 
-fetch(RSS_URL)
-  .then(response => response.text())
-  .then(str => new window.DOMParser().parseFromString(str, "text/xml"))
-  .then(data => {
-    console.log(data);
-    const items = data.querySelectorAll("item");
-    let html = ``;
-    items.forEach(el => {
-      html += `
+.post-title a {
+  color: #333;
+  text-decoration: none;
+  transition: color 0.2s;
+}
 
-        <div class="row">
-          <h3><a href="${el.querySelector("link").innerHTML}">${el.querySelector("title").textContent}</a></h3>
-          <p>{{e.excerpt}}
+.post-title a:hover {
+  color: #0066cc;
+}
 
-          <section class="special">
-          <a href="${el.querySelector("link").innerHTML}" style="color:black">Read More...</a>
-          </section>
-          Published on ${el.querySelector("pubDate").innerHTML}
-          </p>
-        </div>
-      `;
-    });
-    mainSection = document.querySelector('#main.wrapper.style1');
-    mainSection.insertAdjacentHTML("beforeend", html);
-  });
-</script>
+.post-meta {
+  font-size: 0.9rem;
+  color: #666;
+  margin-bottom: 1rem;
+}
 
-</section> -->
+.post-excerpt {
+  color: #444;
+  line-height: 1.6;
+  margin: 1rem 0;
+}
+
+.read-more {
+  display: inline-block;
+  color: #0066cc;
+  text-decoration: none;
+  font-weight: 500;
+  transition: color 0.2s;
+}
+
+.read-more:hover {
+  color: #004c99;
+}
+
+.blog-link-container {
+  text-align: center;
+  padding: 3rem 0;
+}
+
+.blog-link {
+  display: inline-block;
+  padding: 1rem 2rem;
+  background: #0066cc;
+  color: white;
+  text-decoration: none;
+  border-radius: 8px;
+  font-weight: 500;
+  transition: background-color 0.2s;
+}
+
+.blog-link:hover {
+  background: #004c99;
+}
+
+@media (min-width: 768px) {
+  .post-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (min-width: 1200px) {
+  .post-grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+</style>
