@@ -9,7 +9,7 @@ header:
   overlay_filter: "0.5"
   overlay_image: /book/book_img.jpeg
   caption: "System Design with AWS"
-excerpt: "The ultimate guide to designing, building, and scaling systems on AWS. Go from 'it works on my laptop' to 'it scales under load.'"
+excerpt: "The ultimate guide to designing, building, and scaling systems on AWS. Go from Minimum Viable Product to Most Valuable Product.'"
 ---
 
 <style>
@@ -403,6 +403,75 @@ excerpt: "The ultimate guide to designing, building, and scaling systems on AWS.
   text-align: left;
 }
 
+.support-section {
+  text-align: center;
+  margin: 2em auto;
+  max-width: 1200px;
+}
+
+.support-text {
+  font-size: 1.2em;
+  margin-bottom: 2em;
+  line-height: 1.6;
+}
+
+.embed-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 2em;
+  margin-top: 2em;
+}
+
+.embed-item {
+  margin-bottom: 2em;
+}
+
+/* Amazon button styling */
+.amazon-item {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.amazon-button {
+  display: flex;
+  align-items: center;
+  background-color: #FF9900;
+  color: #000;
+  padding: 10px 20px;
+  border-radius: 4px;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 1.1em;
+  transition: background-color 0.3s ease;
+}
+
+.amazon-button:hover {
+  background-color: #FF8C00;
+}
+
+.amazon-logo {
+  width: 25px;
+  height: 25px;
+  margin-right: 10px;
+  background-position: -5px -130px;
+  object-fit: none;
+  object-position: -5px -130px;
+}
+
+@media (max-width: 768px) {
+  .embed-container {
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .embed-item iframe {
+    max-width: 100%;
+    height: auto;
+  }
+}
+
 @media (max-width: 768px) {
   .foreword-author {
     flex-direction: column;
@@ -426,6 +495,93 @@ excerpt: "The ultimate guide to designing, building, and scaling systems on AWS.
 .foreword-author a:hover {
   text-decoration: underline;
 }
+
+/* Giveaway Gallery Styles */
+.giveaway-gallery-container {
+  position: relative;
+  max-width: 1000px;
+  margin: 2em auto;
+  overflow: hidden;
+}
+
+.giveaway-gallery {
+  background: #f9f9f9;
+  border-radius: 8px;
+  box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+  overflow: hidden;
+}
+
+.giveaway-slides {
+  display: flex;
+  transition: transform 0.5s ease-in-out;
+  height: 400px;
+}
+
+.giveaway-slide {
+  min-width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 1em;
+}
+
+.giveaway-slide img {
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: contain;
+  border-radius: 4px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+.giveaway-prev, .giveaway-next {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  background: rgba(255,255,255,0.7);
+  color: #333;
+  border: none;
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  font-size: 18px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 10;
+}
+
+.giveaway-prev:hover, .giveaway-next:hover {
+  background: rgba(255,255,255,0.9);
+}
+
+.giveaway-prev {
+  left: 10px;
+}
+
+.giveaway-next {
+  right: 10px;
+}
+
+.giveaway-caption {
+  text-align: center;
+  font-style: italic;
+  margin-top: 1em;
+}
+
+/* Mobile responsive adjustments */
+@media (max-width: 768px) {
+  .giveaway-slides {
+    height: 300px;
+  }
+  
+  .giveaway-prev, .giveaway-next {
+    width: 30px;
+    height: 30px;
+    font-size: 16px;
+  }
+}
 </style>
 
 <!-- Book Hero Section -->
@@ -437,7 +593,7 @@ excerpt: "The ultimate guide to designing, building, and scaling systems on AWS.
     <h1>System Design on AWS</h1>
     <h2>Building and Scaling Enterprise Solutions</h2>
     <div class="book-description">
-      <p>The ultimate guide to designing, implementing, understanding, building, and scaling complex systems on AWS. Go from "it works on my laptop" to "it scales under load." This is the book we wish we had when we were figuring things out.</p>
+      <p>The ultimate guide to designing, implementing, understanding, building, and scaling complex systems on AWS. Go from "Minimum Viable Product" to "Most Valuable Product". This is the book we wish we had when we were figuring things out.</p>
       <p>Through detailed chapters, this book demystifies AWS's wide-ranging services and how they can be strategically leveraged to address both technical and business requirements.</p>
     </div>
     <div class="book-cta">
@@ -824,95 +980,6 @@ excerpt: "The ultimate guide to designing, building, and scaling systems on AWS.
   </div>
 </div>
 
-<style>
-/* Giveaway Gallery Styles */
-.giveaway-gallery-container {
-  position: relative;
-  max-width: 1000px;
-  margin: 2em auto;
-  overflow: hidden;
-}
-
-.giveaway-gallery {
-  background: #f9f9f9;
-  border-radius: 8px;
-  box-shadow: 0 5px 15px rgba(0,0,0,0.1);
-  overflow: hidden;
-}
-
-.giveaway-slides {
-  display: flex;
-  transition: transform 0.5s ease-in-out;
-  height: 400px;
-}
-
-.giveaway-slide {
-  min-width: 100%;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  padding: 1em;
-}
-
-.giveaway-slide img {
-  max-width: 100%;
-  max-height: 100%;
-  object-fit: contain;
-  border-radius: 4px;
-  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
-}
-
-.giveaway-prev, .giveaway-next {
-  position: absolute;
-  top: 50%;
-  transform: translateY(-50%);
-  background: rgba(255,255,255,0.7);
-  color: #333;
-  border: none;
-  border-radius: 50%;
-  width: 40px;
-  height: 40px;
-  font-size: 18px;
-  cursor: pointer;
-  transition: all 0.3s ease;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  z-index: 10;
-}
-
-.giveaway-prev:hover, .giveaway-next:hover {
-  background: rgba(255,255,255,0.9);
-}
-
-.giveaway-prev {
-  left: 10px;
-}
-
-.giveaway-next {
-  right: 10px;
-}
-
-.giveaway-caption {
-  text-align: center;
-  font-style: italic;
-  margin-top: 1em;
-}
-
-/* Mobile responsive adjustments */
-@media (max-width: 768px) {
-  .giveaway-slides {
-    height: 300px;
-  }
-  
-  .giveaway-prev, .giveaway-next {
-    width: 30px;
-    height: 30px;
-    font-size: 16px;
-  }
-}
-</style>
-
 <script>
 document.addEventListener('DOMContentLoaded', function() {
   let slideIndex = 0;
@@ -968,73 +1035,3 @@ document.addEventListener('DOMContentLoaded', function() {
   </div>
 </div>
 
-<style>
-.support-section {
-  text-align: center;
-  margin: 2em auto;
-  max-width: 1200px;
-}
-
-.support-text {
-  font-size: 1.2em;
-  margin-bottom: 2em;
-  line-height: 1.6;
-}
-
-.embed-container {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  gap: 2em;
-  margin-top: 2em;
-}
-
-.embed-item {
-  margin-bottom: 2em;
-}
-
-/* Amazon button styling */
-.amazon-item {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
-.amazon-button {
-  display: flex;
-  align-items: center;
-  background-color: #FF9900;
-  color: #000;
-  padding: 10px 20px;
-  border-radius: 4px;
-  text-decoration: none;
-  font-weight: bold;
-  font-size: 1.1em;
-  transition: background-color 0.3s ease;
-}
-
-.amazon-button:hover {
-  background-color: #FF8C00;
-}
-
-.amazon-logo {
-  width: 25px;
-  height: 25px;
-  margin-right: 10px;
-  background-position: -5px -130px;
-  object-fit: none;
-  object-position: -5px -130px;
-}
-
-@media (max-width: 768px) {
-  .embed-container {
-    flex-direction: column;
-    align-items: center;
-  }
-  
-  .embed-item iframe {
-    max-width: 100%;
-    height: auto;
-  }
-}
-</style>
