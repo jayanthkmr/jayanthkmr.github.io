@@ -981,6 +981,7 @@ excerpt: "The ultimate guide to designing, building, and scaling systems on AWS.
 </div>
 
 <script>
+//<![CDATA[
 document.addEventListener('DOMContentLoaded', function() {
   let slideIndex = 0;
   const slides = document.querySelector('.giveaway-slides');
@@ -1008,9 +1009,10 @@ document.addEventListener('DOMContentLoaded', function() {
   }, 4000);
   
   function updateSlidePosition() {
-    slides.style.transform = `translateX(-${slideIndex * 100}%)`;
+    slides.style.transform = 'translateX(-' + (slideIndex * 100) + '%)';
   }
 });
+//]]>
 </script>
 
 <!-- Support Us -->
