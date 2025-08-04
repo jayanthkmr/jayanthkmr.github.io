@@ -51,6 +51,9 @@ See you around 🎩
 <hr width="50%" />
 
 ## Updates
+- 🏆 Honored to be named one of [*Hello Entrepreneurs'*](https://helloentrepreneurs.com/) *40 Under 40* achievers! 💡  📖 Full feature (Pg 65): [June 2025 E-Magazine](https://helloentrepreneurs.com/e-magazine/june-2025/) ✨
+- 🎉 [*System Design on AWS*](https://learning.oreilly.com/library/view/system-design-on/9781098146887/) has hit the **Top 3 Bestsellers** in [*Web Development & Design* category](https://www.amazon.in/gp/bestsellers/books/12365311031/) on [Amazon](https://www.amazon.com/System-Design-AWS-Enterprise-Solutions/dp/1098146891)! 🚀📈  
+Huge thanks to all readers, supporters, and the amazing tech community for the love and feedback! 🔥
 - 🛠️ Launched the beta of [*Gathergov*](https://gathergov.com) in February 2025 — [Turl Street Group](https://turlstreetgroup.com)'s first product serving real estate and capital markets stakeholders. 💲 
 - 🎉 Received admission to the Post Graduate Programme (PGP) at [*IIM Bangalore*](https://en.wikipedia.org/wiki/Indian_Institute_of_Management_Bangalore?source=about_page "https://en.wikipedia.org/wiki/Indian_Institute_of_Management_Bangalore") (Class of 2025–27)! 🎉
 - 🎙️ Interviewed by [*Amish Munshi*](https://www.mainstreetmindspodcast.com) on [*The Mainstreet Minds Podcast*](https://www.youtube.com/watch?v=Q2DX6wpEWGA) ✨
@@ -80,3 +83,55 @@ Computational Intelligence methods for Bioinformatics and Biostatistics 2024](ht
   <!-- <sub>  Feb 2020: I will be presenting a talk on "*Modelling excitation energy transfer and trapping in the filamentous cyanobacterium Anabaena variabilis PCC7120* at, "*Optimization of light energy conversion in plants and microalgae*", conference, Porto, Portugal.</sub> -->
 
 </details>
+
+<style type="text/css" media="screen">
+.gr_container {
+  font-family:"Helvetica Neue", Helvetica, Arial, sans-serif;
+  width: 250px;
+}
+.gr_book_container {
+  border-bottom: 1px solid #d7d7d7; padding: 5px 0px;
+}
+.gr_book_image {
+  float: left; padding-right: 20px;
+}
+.gr_book_title {}
+.gr_review_stats {}
+</style>
+<a style="font-size: 1.3em; color: #382110; text-decoration: none;" href="https://www.goodreads.com/author/show/39695222.Jayanth_Kumar?utm_medium=api&utm_source=author_widget">Jayanth Kumar's books on Goodreads</a>
+  <div id="gr_author_widget_1745832121">
+    <!-- Include static html in case javascript is not supported. This will be overridden if things are working. -->
+    <div class="gr_container">
+	
+		<div class="gr_book_container">
+			<a title="System Design on AWS: Building and Scaling Enterprise Solutions" class="gr_book_image" rel="nofollow" href="https://www.goodreads.com/book/show/213739308-system-design-on-aws?utm_medium=api&utm_source=author_widget"><img alt="System Design on AWS: Building and Scaling Enterprise Solutions" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1719012808l/213739308._SX50_.jpg" /></a>
+			<a class="gr_book_title" rel="nofollow" href="https://www.goodreads.com/book/show/213739308-system-design-on-aws?utm_medium=api&utm_source=author_widget">System Design on AWS: Building and Scaling Enterprise Solutions</a>
+			<br/>
+			<div class="gr_review_stats">
+				reviews: 2
+				<br/>
+				ratings: 6 (avg rating 4.83)
+			</div>
+			<br style="clear: both"/>
+		</div>
+
+		<div class="gr_book_container">
+			<a title="Gonzo Poet: and through his lens" class="gr_book_image" rel="nofollow" href="https://www.goodreads.com/book/show/215109970-gonzo-poet?utm_medium=api&utm_source=author_widget"><img alt="Gonzo Poet: and through his lens" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1719054204l/215109970._SY75_.jpg" /></a>
+			<a class="gr_book_title" rel="nofollow" href="https://www.goodreads.com/book/show/215109970-gonzo-poet?utm_medium=api&utm_source=author_widget">Gonzo Poet: and through his lens</a>
+			<br/>
+			<div class="gr_review_stats">
+											</div>
+			<br style="clear: both"/>
+		</div>
+
+		<div class="gr_book_container">
+			<a title="System Design on AWS: Building and Scaling Enterprise Solutions" class="gr_book_image" rel="nofollow" href="https://www.goodreads.com/book/show/228023939-system-design-on-aws?utm_medium=api&utm_source=author_widget"><img alt="System Design on AWS: Building and Scaling Enterprise Solutions" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1739573340l/228023939._SX50_.jpg" /></a>
+			<a class="gr_book_title" rel="nofollow" href="https://www.goodreads.com/book/show/228023939-system-design-on-aws?utm_medium=api&utm_source=author_widget">System Design on AWS: Building and Scaling Enterprise Solutions</a>
+			<br/>
+			<div class="gr_review_stats">
+											</div>
+			<br style="clear: both"/>
+		</div>
+</div>
+  </div>
+<script type="text/javascript" charset="utf-8" src="https://www.goodreads.com/author/author_widget/39695222.Jayanth_Kumar?widget_id=1745832121"></script>
