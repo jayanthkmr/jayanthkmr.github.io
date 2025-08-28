@@ -51,6 +51,7 @@ See you around 🎩
 <hr width="50%" />
 
 ## Updates
+- 🎙️ [Podcast](https://www.youtube.com/watch?v=5Swl9WkHLWQ) with [*Abhishek Vyas*](https://www.instagram.com/abhishekvyas2020) on [*The Powerful Humans*](https://www.youtube.com/@ThePowerfulHumansOfficial/videos) discussing US–China tech rivalries 🌍, India’s chipmaking challenges & opportunities ⚡, Automation, neural chips & energy investments 🔋, Fintech & digital innovation 💳, AI ethics & cultural differences 🧠, & how tech is shaping global work & creativity 🎨🤖
 - 🎙️ Interviewed by [*Preston Chandler*](https://www.linkedin.com/showcase/breakthrough-innovation) on [*The Breakthrough Innovation Podcast*](https://www.youtube.com/watch?v=__DofJK0Bck) ✨
 - 🏆 Honored to be named one of [*Hello Entrepreneurs'*](https://helloentrepreneurs.com/) *40 Under 40* achievers! 💡  📖 Full feature (Pg 65): [June 2025 E-Magazine](https://helloentrepreneurs.com/e-magazine/june-2025/) ✨
 - 🎉 [*System Design on AWS*](https://learning.oreilly.com/library/view/system-design-on/9781098146887/) has hit the **Top 3 Bestsellers** in [*Web Development & Design* category](https://www.amazon.in/gp/bestsellers/books/12365311031/) on [Amazon](https://www.amazon.com/System-Design-AWS-Enterprise-Solutions/dp/1098146891)! 🚀📈  
