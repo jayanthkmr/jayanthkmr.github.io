@@ -28,9 +28,17 @@ See you around 🎩
 
 
 <div>
+
+ <div style="float:center; border: 2px solid #2e436d;text-align:center;border-radius:10px; padding:5px; background: #2e436d;">
+  <a href="https://www.youtube.com/watch?v=5Swl9WkHLWQ" style="color:white">AI Vision for India and Humanity</a>
+  </div> 
   
   <div style="float:center; border: 2px solid #e51738;text-align:center;border-radius:10px; padding:5px; background: #e51738;">
   <a href="https://learning.oreilly.com/library/view/learning-system-design/9781098146887/" style="color:white">System Design on AWS</a>
+  </div> 
+
+  <div style="float:center; border: 2px solid MistyRose;text-align:center;border-radius:10px; padding:5px; background: MistyRose;">
+  <a href="https://www.amazon.in/Gonzo-Poet-through-his-lens-ebook/dp/B07M6CWQJJ/" style="color:black">Poetry Anthology</a>
   </div> 
 
   <div style="float:center; border: 2px solid #cfe2ef;text-align:center;border-radius:10px; padding:5px; background: #cfe2ef;">
@@ -38,22 +46,21 @@ See you around 🎩
   </div> 
 
   <div style="float:center; border: 2px solid #292C34;text-align:center;border-radius:10px; padding:5px; background: #292C34;">
-  
   <a href="https://blog.jaykmr.com" style="color:white">Blog</a>
   </div>
 
-  <div style="float:center; border: 2px solid MistyRose;text-align:center;border-radius:10px; padding:5px; background: MistyRose;">
-  <a href="https://www.amazon.in/Gonzo-Poet-through-his-lens-ebook/dp/B07M6CWQJJ/" style="color:black">Poetry Anthology</a>
-  </div> 
+ 
   
 </div>
 <br/>
 <hr width="50%" />
 
 ## Updates
+- 📰 Featured in [Hello Entrepreneurs’ 40 Under 40](https://helloentrepreneurs.com/e-magazine/june-2025/#flipbook-df_58626/65/), covered by [Economic Times Now](https://www.etnownews.com/markets/hello-entrepreneurs-unveils-its-boldest-40-under-40-edition-article-152383731), [PTI News](https://www.ptinews.com/story/business/hello-entrepreneurs-unveils-40-under-40-list-featuring-brightest-young-talents/1452363), and [MSN](https://www.msn.com/en-in/autos/news/hello-entrepreneurs-unveils-its-boldest-40-under-40-edition/ar-AA1JEXe6) 🎖️
+- 🚩 Completed 1 year at Turl Street Group (TSG) & GatherGov 🎉 with [2000+ contributions](https://www.linkedin.com/posts/jaykmr_cto-life-1yearmilestone-activity-7368155861371789312-3xSj?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAT6QFkBabzV8OgTF9ZxzYSPdBT2NcUOIJQ) 💻 — building the TSG Terminal, scraping pipelines, ML infrastructure & the early MVP of GatherGov one commit at a time 🗳️📊
 - 🎙️ [Podcast](https://www.youtube.com/watch?v=5Swl9WkHLWQ) with [*Abhishek Vyas*](https://www.instagram.com/abhishekvyas2020) on [*The Powerful Humans*](https://www.youtube.com/@ThePowerfulHumansOfficial/videos) discussing US–China tech rivalries 🌍, India’s chipmaking challenges & opportunities ⚡, Automation, neural chips & energy investments 🔋, Fintech & digital innovation 💳, AI ethics & cultural differences 🧠, & how tech is shaping global work & creativity 🎨🤖
 - 🎙️ Interviewed by [*Preston Chandler*](https://www.linkedin.com/showcase/breakthrough-innovation) on [*The Breakthrough Innovation Podcast*](https://www.youtube.com/watch?v=__DofJK0Bck) ✨
-- 🏆 Honored to be named one of [*Hello Entrepreneurs'*](https://helloentrepreneurs.com/) *40 Under 40* achievers! 💡  📖 Full feature (Pg 65): [June 2025 E-Magazine](https://helloentrepreneurs.com/e-magazine/june-2025/) ✨
+- 🏆 Honored to be named one of [*Hello Entrepreneurs'*](https://helloentrepreneurs.com/) *40 Under 40* achievers! 💡  📖 Full feature (Pg 65): [June 2025 E-Magazine](https://helloentrepreneurs.com/e-magazine/june-2025/#flipbook-df_58626/65/) ✨
 - 🎉 [*System Design on AWS*](https://learning.oreilly.com/library/view/system-design-on/9781098146887/) has hit the **Top 3 Bestsellers** in [*Web Development & Design* category](https://www.amazon.in/gp/bestsellers/books/12365311031/) on [Amazon](https://www.amazon.com/System-Design-AWS-Enterprise-Solutions/dp/1098146891)! 🚀📈  
 Huge thanks to all readers, supporters, and the amazing tech community for the love and feedback! 🔥
 - 🛠️ Launched the beta of [*Gathergov*](https://gathergov.com) in February 2025 — [Turl Street Group](https://turlstreetgroup.com)'s first product serving real estate and capital markets stakeholders. 💲 
@@ -61,17 +68,16 @@ Huge thanks to all readers, supporters, and the amazing tech community for the l
 - 🎙️ Interviewed by [*Amish Munshi*](https://www.mainstreetmindspodcast.com) on [*The Mainstreet Minds Podcast*](https://www.youtube.com/watch?v=Q2DX6wpEWGA) ✨
 - 📰 Featured in [*Xraised*](https://www.linkedin.com/pulse/xraised-exclusive-jayanth-kumar-discusses-ai-driven-real-estate-zhw0f/) discussing about [*From Amazon to AI-Driven Real Estate: Jayanth Kumar's Vision at Turl Street Group*](https://xraised.com/videos/from-amazon-to-ai-driven-real-estate-jayanth-kumars-vision-at-turl-street-group/)✨
 - 📚 Release of my book - [*System Design on AWS*](https://learning.oreilly.com/library/view/system-design-on/9781098146887/) on [Amazon](https://www.amazon.com/System-Design-AWS-Enterprise-Solutions/dp/1098146891) ✨ 
-- 📈 Secured a score of 86.77 (98.26 percentile) in [CAT 2024](https://en.wikipedia.org/wiki/Common_Admission_Test?source=about_page "https://en.wikipedia.org/wiki/Common_Admission_Test") held in November 2024 🥇
-- 🎓 Attended [IIT Bombay Class of 2014 Reunion](https://www.linkedin.com/posts/iit-bombay-alumni-association-iitbaa-a1a56723a_iitbaa-10yearreunion-classof2014-ugcPost-7267858901184724992-QAGF?utm_source=share&utm_medium=member_desktop) in November 2024, caught up with friends, and presented a copy of my book to the Dean and alumni 📖✨
-- 🚀 Joined [Turl Street Group](https://turlstreetgroup.com) as CTO in September 2024 to build best in class intelligence solutions for real estate and capital markets stakeholders 🌟
-- 📚  Release of my poetry book - [Gonzo Poet and Through his Lens](https://www.amazon.com/Gonzo-Poet-through-his-lens/dp/1792911742/ref=tmm_pap_swatch_0) with illustrations on amazon.com as paperback edition ✨
+- 📚 Release of my poetry book - [Gonzo Poet and Through his Lens](https://www.amazon.com/Gonzo-Poet-through-his-lens/dp/1792911742/ref=tmm_pap_swatch_0) with illustrations on amazon.com as paperback edition ✨
 
 
 
 <details markdown=1><summary markdown="span"><b>Click here for archived news</b></summary>
-
+* <sub> November 2024: I secured a score of 86.77 (98.26 percentile) in [CAT 2024](https://en.wikipedia.org/wiki/Common_Admission_Test?source=about_page "https://en.wikipedia.org/wiki/Common_Admission_Test") 
+* <sub>  November 2024: I attended [IIT Bombay Class of 2014 Reunion](https://www.linkedin.com/posts/iit-bombay-alumni-association-iitbaa-a1a56723a_iitbaa-10yearreunion-classof2014-ugcPost-7267858901184724992-QAGF?utm_source=share&utm_medium=member_desktop), caught up with friends, and presented a copy of my book to the Dean and alumni </sub>
+* <sub> September 2024: I joined [Turl Street Group](https://turlstreetgroup.com) as CTO in September 2024 to build best in class intelligence solutions for real estate and capital markets stakeholders </sub>
 * <sub> September 2024: I presented my oral presentation - [*ESMCrystal: Enhancing Protein Crystallization Prediction through Protein Embeddings*](https://easychair.org/publications/preprint/FTCX) in the [19th conference on
-Computational Intelligence methods for Bioinformatics and Biostatistics 2024](https://www.bioinformatics-sannio.org/cibb2024/), held at Benevento, Italy from September 4-6,2024 📝</sub>
+Computational Intelligence methods for Bioinformatics and Biostatistics 2024](https://www.bioinformatics-sannio.org/cibb2024/), held at Benevento, Italy from September 4-6,2024 </sub>
 * <sub> July 2024: I presented my poster - [*Enhancing Protein Crystallization Prediction through Protein Embeddings*](https://iscb.junolive.co/ISMB24/live/exhibitor/ismb2024_poster_1399) in the [32nd International Conference on Intelligent Systems for Molecular Biology (ISMB) 2024](https://www.iscb.org/ismb2024/home), held at Montreal, Quebec, Canada from July 12-16,2024</sub>
 * <sub> April 2024: I filed a patent - P84475-US01 - "Systems and Methods for defining and applying Statistical Heuristics for filtering Network Traffic" with Amazon at USPTO</sub>
 * <sub> March 2024: I secured AIR 86 in GATE 2024 for Data Science and Artificial Intelligence (DA), scoring 794 marks. 
@@ -85,6 +91,28 @@ Computational Intelligence methods for Bioinformatics and Biostatistics 2024](ht
   <!-- <sub>  Feb 2020: I will be presenting a talk on "*Modelling excitation energy transfer and trapping in the filamentous cyanobacterium Anabaena variabilis PCC7120* at, "*Optimization of light energy conversion in plants and microalgae*", conference, Porto, Portugal.</sub> -->
 
 </details>
+
+<hr width="50%" />
+
+## As Featured In:
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 40px; margin: 30px 0;">
+  <a href="https://helloentrepreneurs.com/e-magazine/june-2025/#flipbook-df_58626/65/" target="_blank" style="display: inline-block;">
+    <img src="https://cdn.helloentrepreneurs.com/wp-content/uploads/2025/06/light-1.webp" alt="Hello Entrepreneurs" style="height: 60px; object-fit: contain;" />
+  </a>
+  
+  <a href="https://www.etnownews.com/markets/hello-entrepreneurs-unveils-its-boldest-40-under-40-edition-article-152383731" target="_blank" style="display: inline-block;">
+    <img src="https://www.etnownews.com/assets/icons/svg/logo-large.svg" alt="Economic Times Now" style="height: 60px; object-fit: contain;" />
+  </a>
+  
+  <a href="https://www.ptinews.com/story/business/hello-entrepreneurs-unveils-40-under-40-list-featuring-brightest-young-talents/1452363" target="_blank" style="display: inline-block;">
+    <img src="https://www.ptinews.com/assets/images/logo.jpeg" alt="PTI News" style="height: 60px; object-fit: contain;" />
+  </a>
+  
+  <a href="https://www.msn.com/en-in/autos/news/hello-entrepreneurs-unveils-its-boldest-40-under-40-edition/ar-AA1JEXe6" target="_blank" style="display: inline-block;">
+    <img src="https://assets.msn.com/staticsb/statics/latest/brand/new-msn-logo-color-black.svg" alt="MSN" style="height: 60px; object-fit: contain;" />
+  </a>
+</div>
 
 <style type="text/css" media="screen">
 .gr_container {
