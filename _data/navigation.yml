@@ -19,8 +19,8 @@ main:
   - title: "Poems"
     url: /poetry-book/
 
-  # - title: "Mentorship"
-  #   url: /topmate/
+  - title: "Mentorship"
+    url: /topmate/
 
   - title: "Publications"
     url: /publications/   
