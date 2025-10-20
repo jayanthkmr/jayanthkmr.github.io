@@ -9,35 +9,33 @@ source "https://rubygems.org"
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
 
-# For GitHub Pages compatibility
-gem "github-pages", "~> 232", group: :jekyll_plugins
+# Core Jekyll dependencies
+gem "jekyll", "~> 4.3.0"
 
 # Core dependencies
 gem "webrick", "~> 1.8.1"
 gem "tzinfo", ">= 1.2.10"
 gem "tzinfo-data" if Gem.win_platform?
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
-
-# Feed parsing dependencies
-gem "feedjira", "~> 3.2.5"
-gem "httparty", "~> 0.21.0"
-gem "nokogiri", "~> 1.16.0"
-gem "reverse_markdown", "~> 2.1.1"
-gem "faraday-retry", "~> 2.2"
+gem "csv"  # Required for Ruby 3.4.0+
 
 # Development dependencies
-group :development do
-  gem "hawkins"  # Enables livereload functionality
-end
+# group :development do
+#   gem "hawkins"  # Enables livereload functionality - incompatible with Jekyll 4
+# end
 
-# Jekyll plugins - these are included in github-pages, no need to specify versions
+# Jekyll theme
+gem "jekyll-theme-minimal"
+
+# Jekyll plugins - basic set without nokogiri dependencies
 group :jekyll_plugins do
-  gem "jekyll-archives"
   gem "jekyll-feed"
   gem "jekyll-sitemap"
   gem "jekyll-include-cache", "~> 0.1"
   gem "jekyll-paginate"
-  gem "jemoji"
+  gem "jekyll-gist"
+  gem "jekyll-redirect-from"
+  # gem "jemoji"  # Temporarily disabled due to nokogiri build issues with spaces in path
 end
 
 # Security updates
