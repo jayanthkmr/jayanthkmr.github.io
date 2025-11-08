@@ -56,7 +56,8 @@ See you around 🎩
 <hr width="50%" />
 
 ## Updates
-- 📰 Featured in [Hello Entrepreneurs’ 40 Under 40](https://helloentrepreneurs.com/e-magazine/june-2025/#flipbook-df_58626/65/), covered by [Economic Times Now](https://www.etnownews.com/markets/hello-entrepreneurs-unveils-its-boldest-40-under-40-edition-article-152383731), [PTI News](https://www.ptinews.com/story/business/hello-entrepreneurs-unveils-40-under-40-list-featuring-brightest-young-talents/1452363), and [MSN](https://www.msn.com/en-in/autos/news/hello-entrepreneurs-unveils-its-boldest-40-under-40-edition/ar-AA1JEXe6) 🎖️
+- 🏆 From 💡 engineering ideas to 🚀 leading innovations — every milestone has been a step toward creating meaningful impact. Truly grateful to be featured in [Forbes India](https://www.forbesindia.com/article/global-game/cross-border/100-to-watch-asia-pacifics-small-companies-and-startups-on-the-rise/2988330/1) 🏆 among some of the most inspiring names shaping the future of business and technology 🌍. Featured in [Forbes India October 2025 magazine](https://www.amazon.in/Forbes-India-magazine-October-2025/dp/B0FXBMK53N/) 📖
+- 📰 Featured in [Hello Entrepreneurs' 40 Under 40](https://helloentrepreneurs.com/e-magazine/june-2025/#flipbook-df_58626/65/), covered by [Economic Times Now](https://www.etnownews.com/markets/hello-entrepreneurs-unveils-its-boldest-40-under-40-edition-article-152383731), [PTI News](https://www.ptinews.com/story/business/hello-entrepreneurs-unveils-40-under-40-list-featuring-brightest-young-talents/1452363), and [MSN](https://www.msn.com/en-in/autos/news/hello-entrepreneurs-unveils-its-boldest-40-under-40-edition/ar-AA1JEXe6) 🎖️
 - 🚩 Completed 1 year at Turl Street Group (TSG) & GatherGov 🎉 with [2000+ contributions](https://www.linkedin.com/posts/jaykmr_cto-life-1yearmilestone-activity-7368155861371789312-3xSj?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAT6QFkBabzV8OgTF9ZxzYSPdBT2NcUOIJQ) 💻 — building the TSG Terminal, scraping pipelines, ML infrastructure & the early MVP of GatherGov one commit at a time 🗳️📊
 - 🎙️ [Podcast](https://www.youtube.com/watch?v=5Swl9WkHLWQ) with [*Abhishek Vyas*](https://www.instagram.com/abhishekvyas2020) on [*The Powerful Humans*](https://www.youtube.com/@ThePowerfulHumansOfficial/videos) discussing US–China tech rivalries 🌍, India’s chipmaking challenges & opportunities ⚡, Automation, neural chips & energy investments 🔋, Fintech & digital innovation 💳, AI ethics & cultural differences 🧠, & how tech is shaping global work & creativity 🎨🤖
 - 🎙️ Interviewed by [*Preston Chandler*](https://www.linkedin.com/showcase/breakthrough-innovation) on [*The Breakthrough Innovation Podcast*](https://www.youtube.com/watch?v=__DofJK0Bck) ✨
@@ -97,6 +98,10 @@ Computational Intelligence methods for Bioinformatics and Biostatistics 2024](ht
 ## As Featured In:
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 40px; margin: 30px 0;">
+  <a href="https://www.forbesindia.com/article/global-game/cross-border/100-to-watch-asia-pacifics-small-companies-and-startups-on-the-rise/2988330/1" target="_blank" style="display: inline-block;">
+    <img src="https://www.forbes.com/wp-content/themes/fv25/img/forbes-logo.svg" alt="Forbes India" style="height: 60px; object-fit: contain;" />
+  </a>
+  
   <a href="https://helloentrepreneurs.com/e-magazine/june-2025/#flipbook-df_58626/65/" target="_blank" style="display: inline-block;">
     <img src="https://cdn.helloentrepreneurs.com/wp-content/uploads/2025/06/light-1.webp" alt="Hello Entrepreneurs" style="height: 60px; object-fit: contain;" />
   </a>
