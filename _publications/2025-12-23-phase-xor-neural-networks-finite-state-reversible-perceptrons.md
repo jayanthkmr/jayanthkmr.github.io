@@ -1,7 +1,7 @@
 ---
 title: "Phase-XOR Neural Networks: Finite-State, Reversible Perceptrons without Real-Valued Arithmetic"
 collection: publications
-permalink: /publications/2025-12-phase-xor-neural-networks-finite-state-reversible-perceptrons
+permalink: /publications/2025-12-23-phase-xor-neural-networks-finite-state-reversible-perceptrons
 excerpt: 'A preprint introducing PXOR neural networks that compute over four-valued phase logic, offering reversible, finite-state perceptrons with deterministic convergence and hardware-efficient operations.'
 date: 2025-12-23
 venue: 'Preprint'

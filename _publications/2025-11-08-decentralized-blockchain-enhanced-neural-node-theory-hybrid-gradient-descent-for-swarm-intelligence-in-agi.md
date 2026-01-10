@@ -1,7 +1,7 @@
 ---
 title: "Decentralized Blockchain Enhanced Neural Node Theory: Hybrid Gradient Descent for Swarm Intelligence in AGI"
 collection: publications
-permalink: /publications/2025-11-decentralized-blockchain-enhanced-neural-node-theory-hybrid-gradient-descent-for-swarm-intelligence-in-agi
+permalink: /publications/2025-11-08-decentralized-blockchain-enhanced-neural-node-theory-hybrid-gradient-descent-for-swarm-intelligence-in-agi
 excerpt: 'A preprint exploring decentralized blockchain-enhanced neural node theory with hybrid gradient descent for swarm intelligence in artificial general intelligence.'
 date: 2025-11-07
 venue: 'Preprint'

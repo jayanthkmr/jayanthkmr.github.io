@@ -1,7 +1,7 @@
 ---
 title: "Life, Stochastic Oscillator, Resilience Control, and Asymmetric Integral of Meaning"
 collection: publications
-permalink: /publications/2025-10-life-stochastic-oscillator-resilience-control-asymmetric-integral-of-meaning
+permalink: /publications/2025-10-20-life-stochastic-oscillator-resilience-control-asymmetric-integral-of-meaning
 excerpt: 'A preprint exploring stochastic oscillators, resilience control, and the asymmetric integral of meaning.'
 date: 2025-10-20
 venue: 'Preprint'

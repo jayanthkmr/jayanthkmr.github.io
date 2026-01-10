@@ -1,9 +1,9 @@
 ---
 title: "Love as a Chaotic Bayesian Oscillator: Mutual Information, Entropy, and the Forgiveness Reset"
 collection: publications
-permalink: /publications/2025-01-love-chaotic-bayesian-oscillator
+permalink: /publications/2025-10-20-love-chaotic-bayesian-oscillator
 excerpt: 'A preprint exploring love through the lens of chaotic Bayesian oscillator dynamics, mutual information, entropy, and the concept of forgiveness reset.'
-date: 2025-01-01
+date: 2025-10-20
 venue: 'Preprint'
 paperurl: '/files/papers/Love_as_a_Chaotic_Bayesian_Oscillator__Mutual_Information__Entropy__and_the_Forgiveness_Reset.pdf'
 citation: 'Kumar, Jayanth. "Love as a Chaotic Bayesian Oscillator: Mutual Information, Entropy, and the Forgiveness Reset." Preprint (2025).'

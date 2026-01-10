@@ -1,7 +1,7 @@
 ---
 title: "Theory of Everything"
 collection: publications
-permalink: /publications/2025-12-theory-of-everything
+permalink: /publications/2025-12-20-theory-of-everything
 excerpt: 'A unifying framework in which the four fundamental interactions emerge as constraint-enforcement mechanisms on an underlying information manifold, reinterpreting gravity, electromagnetism, weak, and strong interactions through constrained information dynamics.'
 date: 2025-12-20
 venue: 'Preprint'

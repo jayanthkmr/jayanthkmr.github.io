@@ -1,7 +1,7 @@
 ---
 title: "Incompleteness, Observation, and Spectral Truth: A Gödel-Consistent Theory of Everything and Its Fundamental Limits"
 collection: publications
-permalink: /publications/2025-12-godel-incompleteness-spectral-truth
+permalink: /publications/2025-12-24-godel-incompleteness-spectral-truth
 excerpt: 'A preprint unifying Gödel incompleteness and quantum mechanics through spectral truth, wherein propositions exist as superpositions of possible truth states and collapse into classical facts only upon observation, deriving fundamental limits on predictability, time, entropy, consciousness, and artificial general intelligence.'
 date: 2025-12-24
 venue: 'Preprint'

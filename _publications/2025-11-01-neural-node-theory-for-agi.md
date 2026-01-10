@@ -1,7 +1,7 @@
 ---
 title: "Neural Node Theory for AGI"
 collection: publications
-permalink: /publications/2025-11-neural-node-theory-for-agi
+permalink: /publications/2025-11-01-neural-node-theory-for-agi
 excerpt: 'A preprint exploring neural node theory and its applications to artificial general intelligence.'
 date: 2025-11-07
 venue: 'Preprint'

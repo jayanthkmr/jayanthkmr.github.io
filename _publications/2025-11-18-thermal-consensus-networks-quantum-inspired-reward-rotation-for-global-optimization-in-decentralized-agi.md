@@ -1,7 +1,7 @@
 ---
 title: "Thermal Consensus Networks: Quantum Inspired Reward Rotation for Global Optimization in Decentralized AGI"
 collection: publications
-permalink: /publications/2025-11-thermal-consensus-networks-quantum-inspired-reward-rotation-for-global-optimization-in-decentralized-agi
+permalink: /publications/2025-11-18-thermal-consensus-networks-quantum-inspired-reward-rotation-for-global-optimization-in-decentralized-agi
 excerpt: 'A preprint exploring thermal consensus networks with quantum-inspired reward rotation for global optimization in decentralized artificial general intelligence.'
 date: 2025-11-18
 venue: 'Preprint'
